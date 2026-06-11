@@ -1,0 +1,353 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "zhilyBracketSwapping",
+      "request": "launch",
+      "mainClass": "zhilyBracketSwapping",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "schedulingMan",
+      "request": "launch",
+      "mainClass": "schedulingMan",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "nastiaAndGoodArr",
+      "request": "launch",
+      "mainClass": "nastiaAndGoodArr",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "vesselHeight",
+      "request": "launch",
+      "mainClass": "vesselHeight",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "palindromeTwelve",
+      "request": "launch",
+      "mainClass": "palindromeTwelve",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "euclidSeq",
+      "request": "launch",
+      "mainClass": "euclidSeq",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "gridL",
+      "request": "launch",
+      "mainClass": "gridL",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "seatingArrangements",
+      "request": "launch",
+      "mainClass": "seatingArrangements",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "lostNumbers",
+      "request": "launch",
+      "mainClass": "lostNumbers",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "jumpingSegments",
+      "request": "launch",
+      "mainClass": "jumpingSegments",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "zeroRemainderArr",
+      "request": "launch",
+      "mainClass": "zeroRemainderArr",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "addModuloTen",
+      "request": "launch",
+      "mainClass": "addModuloTen",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "ivaAndPav",
+      "request": "launch",
+      "mainClass": "ivaAndPav",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "arrayGame",
+      "request": "launch",
+      "mainClass": "arrayGame",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "grpIncreases",
+      "request": "launch",
+      "mainClass": "grpIncreases",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "annaValentine",
+      "request": "launch",
+      "mainClass": "annaValentine",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "convergence",
+      "request": "launch",
+      "mainClass": "convergence",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "dormsWar",
+      "request": "launch",
+      "mainClass": "dormsWar",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "twoSort",
+      "request": "launch",
+      "mainClass": "twoSort",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "wowFactor",
+      "request": "launch",
+      "mainClass": "wowFactor",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "arrElimination",
+      "request": "launch",
+      "mainClass": "arrElimination",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "allinOneGun",
+      "request": "launch",
+      "mainClass": "allinOneGun",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "AndXor",
+      "request": "launch",
+      "mainClass": "AndXor",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "snowProduct",
+      "request": "launch",
+      "mainClass": "snowProduct",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "ababConst",
+      "request": "launch",
+      "mainClass": "ababConst",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "absoluteCinema",
+      "request": "launch",
+      "mainClass": "absoluteCinema",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "twoTowers",
+      "request": "launch",
+      "mainClass": "twoTowers",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "lostCivilization",
+      "request": "launch",
+      "mainClass": "lostCivilization",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "moveAndTurn",
+      "request": "launch",
+      "mainClass": "moveAndTurn",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "gcdProblem",
+      "request": "launch",
+      "mainClass": "gcdProblem",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "simpleSittingChairs",
+      "request": "launch",
+      "mainClass": "simpleSittingChairs",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "simpleSittingOnChairs",
+      "request": "launch",
+      "mainClass": "simpleSittingOnChairs",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "simpleSeq",
+      "request": "launch",
+      "mainClass": "simpleSeq",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "whiteBlackBalTrees",
+      "request": "launch",
+      "mainClass": "whiteBlackBalTrees",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "alyonaAndFridge",
+      "request": "launch",
+      "mainClass": "alyonaAndFridge",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "shuffle",
+      "request": "launch",
+      "mainClass": "shuffle",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "cellularNetwork",
+      "request": "launch",
+      "mainClass": "cellularNetwork",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "deepDownBelow",
+      "request": "launch",
+      "mainClass": "deepDownBelow",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "omkarMath",
+      "request": "launch",
+      "mainClass": "omkarMath",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "scoringSubseq",
+      "request": "launch",
+      "mainClass": "scoringSubseq",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "strangeBirthdayParty",
+      "request": "launch",
+      "mainClass": "strangeBirthdayParty",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "balancedTunnel",
+      "request": "launch",
+      "mainClass": "balancedTunnel",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "bingoCandles",
+      "request": "launch",
+      "mainClass": "bingoCandles",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "distSubsequence",
+      "request": "launch",
+      "mainClass": "distSubsequence",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "chatBan",
+      "request": "launch",
+      "mainClass": "chatBan",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "twoPairs",
+      "request": "launch",
+      "mainClass": "twoPairs",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "GardenerAndTheArray",
+      "request": "launch",
+      "mainClass": "GardenerAndTheArray",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/arnav/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/6AEB2B33AFA26CB39146A0A1F75115CB92919B12/transfers/2026-11",
+      "program": "c:/Users/arnav/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/6AEB2B33AFA26CB39146A0A1F75115CB92919B12/transfers/2026-11/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
