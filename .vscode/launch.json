@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "taylorTrees",
+      "request": "launch",
+      "mainClass": "taylorTrees",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "omskProgrammers",
+      "request": "launch",
+      "mainClass": "omskProgrammers",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "tatarTvShow",
+      "request": "launch",
+      "mainClass": "tatarTvShow",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "gamesOnTheTrain",
+      "request": "launch",
+      "mainClass": "gamesOnTheTrain",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "fortuneTelling",
+      "request": "launch",
+      "mainClass": "fortuneTelling",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
       "name": "zhilyBracketSwapping",
       "request": "launch",
       "mainClass": "zhilyBracketSwapping",
