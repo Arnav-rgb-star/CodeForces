@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-30",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
     "medium": 1,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
-    "LeetCode_Next_Permutation": true
+    "LeetCode_Next_Permutation": true,
+    "Codeforces_C_-_RemovevomeR": true
   },
   "activityHistory": {
-    "2026-06-30": 1
+    "2026-06-30": 2
   },
   "todayProblems": [
-    "Next Permutation"
+    "Next Permutation",
+    "C - RemovevomeR"
   ]
 }
