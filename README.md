@@ -5,3 +5,4 @@
 | 3 | [D - An Alternative Way](./Codeforces/basic/D%20-%20An%20Alternative%20Way) | [Codeforces](https://codeforces.com/contest/2241/problem/D) | basic | 30 Jun 2026 | 09:49 pm |
 | 4 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 01 Jul 2026 | 09:42 am |
 | 5 | [1933B - Turtle Math Fast Three Task](./Codeforces/basic/1933B%20-%20Turtle%20Math%20Fast%20Three%20Task) | [Codeforces](https://codeforces.com/problemset/problem/1933/B) | basic | 01 Jul 2026 | 12:32 pm |
+| 6 | [1519C - Berland Regional](./Codeforces/basic/1519C%20-%20Berland%20Regional) | [Codeforces](https://codeforces.com/problemset/problem/1519/C) | basic | 01 Jul 2026 | 12:33 pm |

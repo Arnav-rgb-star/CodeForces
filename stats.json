@@ -1,28 +1,30 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-01",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 0,
     "medium": 2,
     "hard": 0,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
     "Codeforces_C_-_RemovevomeR": true,
     "Codeforces_D_-_An_Alternative_Way": true,
     "LeetCode_Coin_Change": true,
-    "Codeforces_1933B_-_Turtle_Math_Fast_Three_Task": true
+    "Codeforces_1933B_-_Turtle_Math_Fast_Three_Task": true,
+    "Codeforces_1519C_-_Berland_Regional": true
   },
   "activityHistory": {
     "2026-06-30": 3,
-    "2026-07-01": 2
+    "2026-07-01": 3
   },
   "todayProblems": [
     "Coin Change",
-    "1933B - Turtle Math Fast Three Task"
+    "1933B - Turtle Math Fast Three Task",
+    "1519C - Berland Regional"
   ]
 }
