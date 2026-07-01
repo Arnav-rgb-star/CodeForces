@@ -1,26 +1,26 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-06-30",
-  "todayCount": 3,
+  "totalSolved": 4,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-07-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 2
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
     "Codeforces_C_-_RemovevomeR": true,
-    "Codeforces_D_-_An_Alternative_Way": true
+    "Codeforces_D_-_An_Alternative_Way": true,
+    "LeetCode_Coin_Change": true
   },
   "activityHistory": {
-    "2026-06-30": 3
+    "2026-06-30": 3,
+    "2026-07-01": 1
   },
   "todayProblems": [
-    "Next Permutation",
-    "C - RemovevomeR",
-    "D - An Alternative Way"
+    "Coin Change"
   ]
 }
