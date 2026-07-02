@@ -1,14 +1,14 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-02",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 0,
     "medium": 4,
     "hard": 0,
-    "basic": 6
+    "basic": 7
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -20,15 +20,17 @@
     "Codeforces_2240B_-_AI_Finds_Nothing_Here": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Set_Matrix_Zeroes": true,
-    "Codeforces_1703D_-_Double_Strings": true
+    "Codeforces_1703D_-_Double_Strings": true,
+    "Codeforces_B_-_Another_Sorting_Problem": true
   },
   "activityHistory": {
     "2026-06-30": 3,
     "2026-07-01": 5,
-    "2026-07-02": 2
+    "2026-07-02": 3
   },
   "todayProblems": [
     "Set Matrix Zeroes",
-    "1703D - Double Strings"
+    "1703D - Double Strings",
+    "B - Another Sorting Problem"
   ]
 }

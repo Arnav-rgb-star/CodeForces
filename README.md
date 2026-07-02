@@ -10,3 +10,4 @@
 | 8 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 01 Jul 2026 | 08:55 pm |
 | 9 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 02 Jul 2026 | 11:15 am |
 | 10 | [1703D - Double Strings](./Codeforces/basic/1703D%20-%20Double%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/1703/D) | basic | 02 Jul 2026 | 12:46 pm |
+| 11 | [B - Another Sorting Problem](./Codeforces/basic/B%20-%20Another%20Sorting%20Problem) | [Codeforces](https://codeforces.com/contest/2231/problem/B) | basic | 02 Jul 2026 | 06:16 pm |
