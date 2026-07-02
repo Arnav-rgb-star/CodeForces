@@ -9,3 +9,4 @@
 | 7 | [2240B - AI Finds Nothing Here](./Codeforces/basic/2240B%20-%20AI%20Finds%20Nothing%20Here) | [Codeforces](https://codeforces.com/problemset/problem/2240/B) | basic | 01 Jul 2026 | 06:49 pm |
 | 8 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 01 Jul 2026 | 08:55 pm |
 | 9 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 02 Jul 2026 | 11:15 am |
+| 10 | [1703D - Double Strings](./Codeforces/basic/1703D%20-%20Double%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/1703/D) | basic | 02 Jul 2026 | 12:46 pm |
