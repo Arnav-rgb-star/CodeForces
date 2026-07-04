@@ -14,3 +14,4 @@
 | 12 | [Target Sum](./LeetCode/Medium/Target%20Sum) | [LeetCode](https://leetcode.com/problems/target-sum/) | Medium | 03 Jul 2026 | 04:10 pm |
 | 13 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 03 Jul 2026 | 10:22 pm |
 | 14 | [2233C - Cost of a Bracket Sequence](./Codeforces/basic/2233C%20-%20Cost%20of%20a%20Bracket%20Sequence) | [Codeforces](https://codeforces.com/problemset/problem/2233/C) | basic | 04 Jul 2026 | 06:54 pm |
+| 15 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 04 Jul 2026 | 10:56 pm |
