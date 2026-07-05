@@ -16,3 +16,4 @@
 | 14 | [2233C - Cost of a Bracket Sequence](./Codeforces/basic/2233C%20-%20Cost%20of%20a%20Bracket%20Sequence) | [Codeforces](https://codeforces.com/problemset/problem/2233/C) | basic | 04 Jul 2026 | 06:54 pm |
 | 15 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 04 Jul 2026 | 10:56 pm |
 | 16 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 05 Jul 2026 | 09:05 pm |
+| 17 | [2238A - Another Puzzle from Papyrus](./Codeforces/basic/2238A%20-%20Another%20Puzzle%20from%20Papyrus) | [Codeforces](https://codeforces.com/problemset/problem/2238/A) | basic | 05 Jul 2026 | 10:55 pm |
