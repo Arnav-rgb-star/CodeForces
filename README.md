@@ -18,3 +18,4 @@
 | 16 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 05 Jul 2026 | 09:05 pm |
 | 17 | [2238A - Another Puzzle from Papyrus](./Codeforces/basic/2238A%20-%20Another%20Puzzle%20from%20Papyrus) | [Codeforces](https://codeforces.com/problemset/problem/2238/A) | basic | 05 Jul 2026 | 10:55 pm |
 | 18 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 06 Jul 2026 | 09:43 pm |
+| 19 | [2229C2 - We Be Flipping Hard Version](./Codeforces/basic/2229C2%20-%20We%20Be%20Flipping%20Hard%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2229/C2) | basic | 07 Jul 2026 | 04:01 pm |

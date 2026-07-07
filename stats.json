@@ -1,14 +1,14 @@
 {
-  "totalSolved": 18,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-07-06",
+  "totalSolved": 19,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-07-07",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 7,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -28,7 +28,8 @@
     "LeetCode_Rotate_Image": true,
     "LeetCode_Coin_Change_II": true,
     "Codeforces_2238A_-_Another_Puzzle_from_Papyrus": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "Codeforces_2229C2_-_We_Be_Flipping_Hard_Version": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -37,9 +38,10 @@
     "2026-07-03": 2,
     "2026-07-04": 2,
     "2026-07-05": 2,
-    "2026-07-06": 1
+    "2026-07-06": 1,
+    "2026-07-07": 1
   },
   "todayProblems": [
-    "Pascal's Triangle"
+    "2229C2 - We Be Flipping Hard Version"
   ]
 }
