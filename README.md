@@ -22,3 +22,4 @@
 | 20 | [Longest Palindromic Subsequence](./LeetCode/Medium/Longest%20Palindromic%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | 08 Jul 2026 | 12:30 pm |
 | 21 | [Delete Operation for Two Strings](./LeetCode/Medium/Delete%20Operation%20for%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | 08 Jul 2026 | 12:43 pm |
 | 22 | [Minimum Insertion Steps to Make a String Palindrome](./LeetCode/Hard/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome) | [LeetCode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | 08 Jul 2026 | 12:55 pm |
+| 23 | [271B - Prime Matrix](./Codeforces/basic/271B%20-%20Prime%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/271/B) | basic | 08 Jul 2026 | 03:50 pm |

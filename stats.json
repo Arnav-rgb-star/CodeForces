@@ -1,14 +1,14 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-08",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 1,
-    "basic": 10
+    "basic": 11
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -32,7 +32,8 @@
     "Codeforces_2229C2_-_We_Be_Flipping_Hard_Version": true,
     "LeetCode_Longest_Palindromic_Subsequence": true,
     "LeetCode_Delete_Operation_for_Two_Strings": true,
-    "LeetCode_Minimum_Insertion_Steps_to_Make_a_String_Palindrome": true
+    "LeetCode_Minimum_Insertion_Steps_to_Make_a_String_Palindrome": true,
+    "Codeforces_271B_-_Prime_Matrix": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -43,11 +44,12 @@
     "2026-07-05": 2,
     "2026-07-06": 1,
     "2026-07-07": 1,
-    "2026-07-08": 3
+    "2026-07-08": 4
   },
   "todayProblems": [
     "Longest Palindromic Subsequence",
     "Delete Operation for Two Strings",
-    "Minimum Insertion Steps to Make a String Palindrome"
+    "Minimum Insertion Steps to Make a String Palindrome",
+    "271B - Prime Matrix"
   ]
 }
