@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 10
   },
@@ -30,7 +30,8 @@
     "Codeforces_2238A_-_Another_Puzzle_from_Papyrus": true,
     "LeetCode_Pascal's_Triangle": true,
     "Codeforces_2229C2_-_We_Be_Flipping_Hard_Version": true,
-    "LeetCode_Longest_Palindromic_Subsequence": true
+    "LeetCode_Longest_Palindromic_Subsequence": true,
+    "LeetCode_Delete_Operation_for_Two_Strings": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -41,9 +42,10 @@
     "2026-07-05": 2,
     "2026-07-06": 1,
     "2026-07-07": 1,
-    "2026-07-08": 1
+    "2026-07-08": 2
   },
   "todayProblems": [
-    "Longest Palindromic Subsequence"
+    "Longest Palindromic Subsequence",
+    "Delete Operation for Two Strings"
   ]
 }

@@ -20,3 +20,4 @@
 | 18 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 06 Jul 2026 | 09:43 pm |
 | 19 | [2229C2 - We Be Flipping Hard Version](./Codeforces/basic/2229C2%20-%20We%20Be%20Flipping%20Hard%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2229/C2) | basic | 07 Jul 2026 | 04:01 pm |
 | 20 | [Longest Palindromic Subsequence](./LeetCode/Medium/Longest%20Palindromic%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | 08 Jul 2026 | 12:30 pm |
+| 21 | [Delete Operation for Two Strings](./LeetCode/Medium/Delete%20Operation%20for%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | 08 Jul 2026 | 12:43 pm |
