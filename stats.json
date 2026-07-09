@@ -1,14 +1,14 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 1,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -36,7 +36,8 @@
     "Codeforces_271B_-_Prime_Matrix": true,
     "Codeforces_1971D_-_Binary_Cut": true,
     "Codeforces_1461B_-_Find_the_Spruce": true,
-    "Codeforces_1860B_-_Fancy_Coins": true
+    "Codeforces_1860B_-_Fancy_Coins": true,
+    "Codeforces_1934B_-_Yet_Another_Coin_Problem": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -48,9 +49,10 @@
     "2026-07-06": 1,
     "2026-07-07": 1,
     "2026-07-08": 6,
-    "2026-07-09": 1
+    "2026-07-09": 2
   },
   "todayProblems": [
-    "1860B - Fancy Coins"
+    "1860B - Fancy Coins",
+    "1934B - Yet Another Coin Problem"
   ]
 }
