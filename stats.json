@@ -1,14 +1,14 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-07-08",
-  "todayCount": 6,
+  "totalSolved": 26,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-07-09",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 1,
-    "basic": 13
+    "basic": 14
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -35,7 +35,8 @@
     "LeetCode_Minimum_Insertion_Steps_to_Make_a_String_Palindrome": true,
     "Codeforces_271B_-_Prime_Matrix": true,
     "Codeforces_1971D_-_Binary_Cut": true,
-    "Codeforces_1461B_-_Find_the_Spruce": true
+    "Codeforces_1461B_-_Find_the_Spruce": true,
+    "Codeforces_1860B_-_Fancy_Coins": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -46,14 +47,10 @@
     "2026-07-05": 2,
     "2026-07-06": 1,
     "2026-07-07": 1,
-    "2026-07-08": 6
+    "2026-07-08": 6,
+    "2026-07-09": 1
   },
   "todayProblems": [
-    "Longest Palindromic Subsequence",
-    "Delete Operation for Two Strings",
-    "Minimum Insertion Steps to Make a String Palindrome",
-    "271B - Prime Matrix",
-    "1971D - Binary Cut",
-    "1461B - Find the Spruce"
+    "1860B - Fancy Coins"
   ]
 }

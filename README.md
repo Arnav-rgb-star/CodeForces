@@ -25,3 +25,4 @@
 | 23 | [271B - Prime Matrix](./Codeforces/basic/271B%20-%20Prime%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/271/B) | basic | 08 Jul 2026 | 03:50 pm |
 | 24 | [1971D - Binary Cut](./Codeforces/basic/1971D%20-%20Binary%20Cut) | [Codeforces](https://codeforces.com/problemset/problem/1971/D) | basic | 08 Jul 2026 | 06:55 pm |
 | 25 | [1461B - Find the Spruce](./Codeforces/basic/1461B%20-%20Find%20the%20Spruce) | [Codeforces](https://codeforces.com/problemset/problem/1461/B) | basic | 08 Jul 2026 | 08:05 pm |
+| 26 | [1860B - Fancy Coins](./Codeforces/basic/1860B%20-%20Fancy%20Coins) | [Codeforces](https://codeforces.com/problemset/problem/1860/B) | basic | 09 Jul 2026 | 06:38 pm |
