@@ -27,3 +27,4 @@
 | 25 | [1461B - Find the Spruce](./Codeforces/basic/1461B%20-%20Find%20the%20Spruce) | [Codeforces](https://codeforces.com/problemset/problem/1461/B) | basic | 08 Jul 2026 | 08:05 pm |
 | 26 | [1860B - Fancy Coins](./Codeforces/basic/1860B%20-%20Fancy%20Coins) | [Codeforces](https://codeforces.com/problemset/problem/1860/B) | basic | 09 Jul 2026 | 06:38 pm |
 | 27 | [1934B - Yet Another Coin Problem](./Codeforces/basic/1934B%20-%20Yet%20Another%20Coin%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1934/B) | basic | 09 Jul 2026 | 06:39 pm |
+| 28 | [1472C - Long Jumps](./Codeforces/basic/1472C%20-%20Long%20Jumps) | [Codeforces](https://codeforces.com/problemset/problem/1472/C) | basic | 09 Jul 2026 | 09:53 pm |
