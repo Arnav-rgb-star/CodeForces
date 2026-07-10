@@ -1,14 +1,14 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-07-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 2,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -39,7 +39,8 @@
     "Codeforces_1860B_-_Fancy_Coins": true,
     "Codeforces_1934B_-_Yet_Another_Coin_Problem": true,
     "Codeforces_1472C_-_Long_Jumps": true,
-    "LeetCode_Distinct_Subsequences": true
+    "LeetCode_Distinct_Subsequences": true,
+    "Codeforces_1766C_-_Hamiltonian_Wall": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -52,9 +53,10 @@
     "2026-07-07": 1,
     "2026-07-08": 6,
     "2026-07-09": 3,
-    "2026-07-10": 1
+    "2026-07-10": 2
   },
   "todayProblems": [
-    "Distinct Subsequences"
+    "Distinct Subsequences",
+    "1766C - Hamiltonian Wall"
   ]
 }

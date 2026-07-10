@@ -29,3 +29,4 @@
 | 27 | [1934B - Yet Another Coin Problem](./Codeforces/basic/1934B%20-%20Yet%20Another%20Coin%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1934/B) | basic | 09 Jul 2026 | 06:39 pm |
 | 28 | [1472C - Long Jumps](./Codeforces/basic/1472C%20-%20Long%20Jumps) | [Codeforces](https://codeforces.com/problemset/problem/1472/C) | basic | 09 Jul 2026 | 09:53 pm |
 | 29 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 10 Jul 2026 | 10:36 am |
+| 30 | [1766C - Hamiltonian Wall](./Codeforces/basic/1766C%20-%20Hamiltonian%20Wall) | [Codeforces](https://codeforces.com/problemset/problem/1766/C) | basic | 10 Jul 2026 | 04:46 pm |
