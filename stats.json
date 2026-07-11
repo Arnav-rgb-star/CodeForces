@@ -1,14 +1,14 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-07-10",
-  "todayCount": 3,
+  "totalSolved": 32,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-07-11",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 2,
-    "basic": 18
+    "basic": 19
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -41,7 +41,8 @@
     "Codeforces_1472C_-_Long_Jumps": true,
     "LeetCode_Distinct_Subsequences": true,
     "Codeforces_1766C_-_Hamiltonian_Wall": true,
-    "Codeforces_327A_-_Flipping_Game": true
+    "Codeforces_327A_-_Flipping_Game": true,
+    "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -54,11 +55,10 @@
     "2026-07-07": 1,
     "2026-07-08": 6,
     "2026-07-09": 3,
-    "2026-07-10": 3
+    "2026-07-10": 3,
+    "2026-07-11": 1
   },
   "todayProblems": [
-    "Distinct Subsequences",
-    "1766C - Hamiltonian Wall",
-    "327A - Flipping Game"
+    "1362C - Johnny and Another Rating Drop"
   ]
 }

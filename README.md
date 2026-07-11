@@ -31,3 +31,4 @@
 | 29 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 10 Jul 2026 | 10:36 am |
 | 30 | [1766C - Hamiltonian Wall](./Codeforces/basic/1766C%20-%20Hamiltonian%20Wall) | [Codeforces](https://codeforces.com/problemset/problem/1766/C) | basic | 10 Jul 2026 | 04:46 pm |
 | 31 | [327A - Flipping Game](./Codeforces/basic/327A%20-%20Flipping%20Game) | [Codeforces](https://codeforces.com/problemset/problem/327/A) | basic | 10 Jul 2026 | 07:21 pm |
+| 32 | [1362C - Johnny and Another Rating Drop](./Codeforces/basic/1362C%20-%20Johnny%20and%20Another%20Rating%20Drop) | [Codeforces](https://codeforces.com/problemset/problem/1362/C) | basic | 11 Jul 2026 | 04:42 pm |
