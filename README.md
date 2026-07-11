@@ -32,3 +32,4 @@
 | 30 | [1766C - Hamiltonian Wall](./Codeforces/basic/1766C%20-%20Hamiltonian%20Wall) | [Codeforces](https://codeforces.com/problemset/problem/1766/C) | basic | 10 Jul 2026 | 04:46 pm |
 | 31 | [327A - Flipping Game](./Codeforces/basic/327A%20-%20Flipping%20Game) | [Codeforces](https://codeforces.com/problemset/problem/327/A) | basic | 10 Jul 2026 | 07:21 pm |
 | 32 | [1362C - Johnny and Another Rating Drop](./Codeforces/basic/1362C%20-%20Johnny%20and%20Another%20Rating%20Drop) | [Codeforces](https://codeforces.com/problemset/problem/1362/C) | basic | 11 Jul 2026 | 04:42 pm |
+| 33 | [Concatenate Non-Zero Digits and Multiply by Sum II](./LeetCode/Medium/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | 11 Jul 2026 | 08:06 pm |
