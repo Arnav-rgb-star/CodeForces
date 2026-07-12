@@ -1,14 +1,14 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-07-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 2,
     "medium": 10,
     "hard": 4,
-    "basic": 19
+    "basic": 20
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -45,7 +45,8 @@
     "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true,
     "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II": true,
     "LeetCode_Shortest_Common_Supersequence_": true,
-    "LeetCode_Wildcard_Matching": true
+    "LeetCode_Wildcard_Matching": true,
+    "Codeforces_A_-_Single_Wildcard_Pattern_Matching": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -60,10 +61,11 @@
     "2026-07-09": 3,
     "2026-07-10": 3,
     "2026-07-11": 2,
-    "2026-07-12": 2
+    "2026-07-12": 3
   },
   "todayProblems": [
     "Shortest Common Supersequence ",
-    "Wildcard Matching"
+    "Wildcard Matching",
+    "A - Single Wildcard Pattern Matching"
   ]
 }

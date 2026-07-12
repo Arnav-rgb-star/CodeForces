@@ -35,3 +35,4 @@
 | 33 | [Concatenate Non-Zero Digits and Multiply by Sum II](./LeetCode/Medium/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | 11 Jul 2026 | 08:06 pm |
 | 34 | [Shortest Common Supersequence ](./LeetCode/Hard/Shortest%20Common%20Supersequence%20) | [LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | 12 Jul 2026 | 11:01 am |
 | 35 | [Wildcard Matching](./LeetCode/Hard/Wildcard%20Matching) | [LeetCode](https://leetcode.com/problems/wildcard-matching/) | Hard | 12 Jul 2026 | 01:00 pm |
+| 36 | [A - Single Wildcard Pattern Matching](./Codeforces/basic/A%20-%20Single%20Wildcard%20Pattern%20Matching) | [Codeforces](https://codeforces.com/contest/1023/problem/A) | basic | 12 Jul 2026 | 05:45 pm |
