@@ -1,13 +1,13 @@
 {
-  "totalSolved": 33,
-  "currentStreak": 12,
-  "maxStreak": 12,
-  "lastSyncDate": "2026-07-11",
-  "todayCount": 2,
+  "totalSolved": 34,
+  "currentStreak": 13,
+  "maxStreak": 13,
+  "lastSyncDate": "2026-07-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 10,
-    "hard": 2,
+    "hard": 3,
     "basic": 19
   },
   "syncedProblems": {
@@ -43,7 +43,8 @@
     "Codeforces_1766C_-_Hamiltonian_Wall": true,
     "Codeforces_327A_-_Flipping_Game": true,
     "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true,
-    "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II": true
+    "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II": true,
+    "LeetCode_Shortest_Common_Supersequence_": true
   },
   "activityHistory": {
     "2026-06-30": 3,
@@ -57,10 +58,10 @@
     "2026-07-08": 6,
     "2026-07-09": 3,
     "2026-07-10": 3,
-    "2026-07-11": 2
+    "2026-07-11": 2,
+    "2026-07-12": 1
   },
   "todayProblems": [
-    "1362C - Johnny and Another Rating Drop",
-    "Concatenate Non-Zero Digits and Multiply by Sum II"
+    "Shortest Common Supersequence "
   ]
 }
