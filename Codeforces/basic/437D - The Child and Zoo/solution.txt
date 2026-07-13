@@ -1,0 +1,32 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long
+#define N 1000100
+int n,m,x,y,val[N],fa[N],num[N];
+struct Edge {int u,v,w;};
+vector<Edge> edge;
+void init(int m) {for(int i = 1;i <= m;++i) fa[i] = i,num[i] = 1;}
+int find(int x) {return (x == fa[x]) ? x : (fa[x] = find(fa[x]));}
+void merge(int x,int y) {num[find(y)] += num[find(x)];fa[find(x)] = find(y);}
+double work()
+{
+    sort(edge.begin(),edge.end(),[](Edge a,Edge b){return a.w > b.w;});
+
+    init(n);
+
+    int sum = 0;
+    for(auto [u,v,w] : edge)
+        if(find(u) != find(v)) sum += num[find(u)] * num[find(v)] * w,merge(u,v);
+    return 2.0 * sum / n / (n - 1);
+}
+signed main()
+{
+    ios::sync_with_stdio(false);
+    
+    cin>>n>>m;
+    for(int i = 1;i <= n;++i) cin>>val[i];
+    for(int i = 1;i <= m;++i) cin>>x>>y,edge.push_back({x,y,min(val[x],val[y])});
+    cout<<fixed<<setprecision(9)<<work()<<endl;
+
+    return 0;
+}

@@ -40,3 +40,4 @@
 | 38 | [1883G1 - Dances Easy version](./Codeforces/basic/1883G1%20-%20Dances%20Easy%20version) | [Codeforces](https://codeforces.com/problemset/problem/1883/G1) | basic | 13 Jul 2026 | 04:33 pm |
 | 39 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 13 Jul 2026 | 07:24 pm |
 | 40 | [687A - NP-Hard Problem](./Codeforces/basic/687A%20-%20NP-Hard%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/687/A) | basic | 13 Jul 2026 | 08:49 pm |
+| 41 | [437D - The Child and Zoo](./Codeforces/basic/437D%20-%20The%20Child%20and%20Zoo) | [Codeforces](https://codeforces.com/problemset/problem/437/D) | basic | 13 Jul 2026 | 08:50 pm |
