@@ -1,30 +1,32 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-13",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 0,
     "medium": 1,
     "hard": 0,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
     "Codeforces_687A_-_NP-Hard_Problem": true,
     "Codeforces_437D_-_The_Child_and_Zoo": true,
     "Codeforces_1036C_-_Classy_Numbers": true,
-    "Codeforces_339B_-_Xenia_and_Ringroad": true
+    "Codeforces_339B_-_Xenia_and_Ringroad": true,
+    "Codeforces_1926A_-_Vlad_and_the_Best_of_Five": true
   },
   "activityHistory": {
-    "2026-07-13": 5
+    "2026-07-13": 6
   },
   "todayProblems": [
     "Edit Distance",
     "687A - NP-Hard Problem",
     "437D - The Child and Zoo",
     "1036C - Classy Numbers",
-    "339B - Xenia and Ringroad"
+    "339B - Xenia and Ringroad",
+    "1926A - Vlad and the Best of Five"
   ]
 }
