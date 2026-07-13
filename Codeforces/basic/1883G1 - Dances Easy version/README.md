@@ -1,0 +1,14 @@
+# 1883G1 - Dances Easy version
+
+## Difficulty: basic
+
+## Platform: Codeforces
+
+## Problem Link
+[View Problem](https://codeforces.com/problemset/problem/1883/G1)
+
+## Solved On
+13 Jul 2026 at 04:33 pm
+
+## Codeforces Submission ID: 382393251
+**Language:** Java 21
