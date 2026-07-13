@@ -38,3 +38,4 @@
 | 36 | [A - Single Wildcard Pattern Matching](./Codeforces/basic/A%20-%20Single%20Wildcard%20Pattern%20Matching) | [Codeforces](https://codeforces.com/contest/1023/problem/A) | basic | 12 Jul 2026 | 05:45 pm |
 | 37 | [2246B - ezraft and Array](./Codeforces/basic/2246B%20-%20ezraft%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2246/B) | basic | 13 Jul 2026 | 12:34 pm |
 | 38 | [1883G1 - Dances Easy version](./Codeforces/basic/1883G1%20-%20Dances%20Easy%20version) | [Codeforces](https://codeforces.com/problemset/problem/1883/G1) | basic | 13 Jul 2026 | 04:33 pm |
+| 39 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 13 Jul 2026 | 07:24 pm |
