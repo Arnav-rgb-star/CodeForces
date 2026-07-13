@@ -1,0 +1,80 @@
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include <cmath>
+#include <cstring>
+using namespace std;
+typedef long long ll; 
+const int maxn=1e5+10;
+int head[maxn],cnt,n,m;
+int color[maxn],x,y;
+struct edge{
+	int v;
+	int next;
+}e[2*maxn];
+void init(){//初始化
+	memset(head,-1,sizeof head);
+	memset(color,0,sizeof color);
+	cnt=0;
+}
+void add(int u,int v){//邻接表加边
+	e[cnt].v=v;
+	e[cnt].next=head[u];
+	head[u]=cnt++;
+}
+bool dfs(int u,int c){//u是顶点编号，c是要染的颜色
+	color[u]=c;
+	for(int i=head[u];i!=-1;i=e[i].next){
+		int v=e[i].v;//下一个点的编号
+		if(color[v]==c){//下一个v顶点的颜色跟此时u的颜色一样
+			return false;
+		}
+		if(color[v]==0&&!dfs(v,-c)){//下一个顶点未染色
+			return false;//但是下一个顶点不会染此时u的相反色
+		}
+	}
+	return true;
+}
+void solve(){
+	for(int i=1;i<=n;++i){
+		if(head[i]>-1&&!color[i]){
+			if(!dfs(i,1)){//给最后一组的其中一点染白色 
+				printf("-1\n");
+				return ;
+			}			
+		}
+	}
+	int ans1=0,ans2=0;
+	for(int i=1;i<=n;++i){
+		if(color[i]==1){
+			ans1++;
+		}
+		if(color[i]==-1){
+			ans2++;
+		}
+	}
+	printf("%d\n",ans1);
+	for(int i=1;i<=n;++i){
+		if(color[i]==1){
+			printf("%d ",i);
+		}
+	}
+	printf("\n%d\n",ans2);	
+	for(int i=1;i<=n;++i){
+		if(color[i]==-1){
+			printf("%d ",i);
+		}
+	}
+}
+int main(){
+	scanf("%d%d",&n,&m);
+	init();
+	for(int i=0;i<m;++i){
+		scanf("%d%d",&x,&y);
+		add(x,y);
+		add(y,x);
+	}
+	solve();
+	return 0;
+}
+

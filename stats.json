@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
     "medium": 1,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
-    "LeetCode_Edit_Distance": true
+    "LeetCode_Edit_Distance": true,
+    "Codeforces_687A_-_NP-Hard_Problem": true
   },
   "activityHistory": {
-    "2026-07-13": 1
+    "2026-07-13": 2
   },
   "todayProblems": [
-    "Edit Distance"
+    "Edit Distance",
+    "687A - NP-Hard Problem"
   ]
 }
