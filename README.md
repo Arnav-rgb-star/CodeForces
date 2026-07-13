@@ -42,3 +42,4 @@
 | 40 | [687A - NP-Hard Problem](./Codeforces/basic/687A%20-%20NP-Hard%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/687/A) | basic | 13 Jul 2026 | 08:49 pm |
 | 41 | [437D - The Child and Zoo](./Codeforces/basic/437D%20-%20The%20Child%20and%20Zoo) | [Codeforces](https://codeforces.com/problemset/problem/437/D) | basic | 13 Jul 2026 | 08:50 pm |
 | 42 | [1036C - Classy Numbers](./Codeforces/basic/1036C%20-%20Classy%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1036/C) | basic | 13 Jul 2026 | 08:50 pm |
+| 43 | [339B - Xenia and Ringroad](./Codeforces/basic/339B%20-%20Xenia%20and%20Ringroad) | [Codeforces](https://codeforces.com/problemset/problem/339/B) | basic | 13 Jul 2026 | 08:50 pm |

@@ -1,28 +1,30 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-13",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 0,
     "medium": 1,
     "hard": 0,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
     "Codeforces_687A_-_NP-Hard_Problem": true,
     "Codeforces_437D_-_The_Child_and_Zoo": true,
-    "Codeforces_1036C_-_Classy_Numbers": true
+    "Codeforces_1036C_-_Classy_Numbers": true,
+    "Codeforces_339B_-_Xenia_and_Ringroad": true
   },
   "activityHistory": {
-    "2026-07-13": 4
+    "2026-07-13": 5
   },
   "todayProblems": [
     "Edit Distance",
     "687A - NP-Hard Problem",
     "437D - The Child and Zoo",
-    "1036C - Classy Numbers"
+    "1036C - Classy Numbers",
+    "339B - Xenia and Ringroad"
   ]
 }
