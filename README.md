@@ -36,3 +36,4 @@
 | 34 | [Shortest Common Supersequence ](./LeetCode/Hard/Shortest%20Common%20Supersequence%20) | [LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | 12 Jul 2026 | 11:01 am |
 | 35 | [Wildcard Matching](./LeetCode/Hard/Wildcard%20Matching) | [LeetCode](https://leetcode.com/problems/wildcard-matching/) | Hard | 12 Jul 2026 | 01:00 pm |
 | 36 | [A - Single Wildcard Pattern Matching](./Codeforces/basic/A%20-%20Single%20Wildcard%20Pattern%20Matching) | [Codeforces](https://codeforces.com/contest/1023/problem/A) | basic | 12 Jul 2026 | 05:45 pm |
+| 37 | [2246B - ezraft and Array](./Codeforces/basic/2246B%20-%20ezraft%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2246/B) | basic | 13 Jul 2026 | 12:34 pm |
