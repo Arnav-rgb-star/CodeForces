@@ -45,3 +45,4 @@
 | 43 | [339B - Xenia and Ringroad](./Codeforces/basic/339B%20-%20Xenia%20and%20Ringroad) | [Codeforces](https://codeforces.com/problemset/problem/339/B) | basic | 13 Jul 2026 | 08:50 pm |
 | 44 | [1926A - Vlad and the Best of Five](./Codeforces/basic/1926A%20-%20Vlad%20and%20the%20Best%20of%20Five) | [Codeforces](https://codeforces.com/problemset/problem/1926/A) | basic | 13 Jul 2026 | 08:50 pm |
 | 45 | [1788A - One and Two](./Codeforces/basic/1788A%20-%20One%20and%20Two) | [Codeforces](https://codeforces.com/problemset/problem/1788/A) | basic | 13 Jul 2026 | 08:50 pm |
+| 46 | [718E - Matveys Birthday](./Codeforces/basic/718E%20-%20Matveys%20Birthday) | [Codeforces](https://codeforces.com/problemset/problem/718/E) | basic | 13 Jul 2026 | 08:50 pm |

@@ -1,0 +1,155 @@
+// vfy-718E-27-cc05c275a5e1
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <algorithm>
+#include <unordered_map>
+#include <cstdint>
+
+using namespace std;
+
+const int INF = 1e9;
+
+struct Bitset {
+    int n;
+    int num_words;
+    vector<uint64_t> bits;
+    Bitset(int n = 0) : n(n), num_words((n + 63) / 64), bits(num_words, 0) {}
+    void set(int pos) {
+        bits[pos / 64] |= (1ULL << (pos % 64));
+    }
+    bool get(int pos) const {
+        return (bits[pos / 64] >> (pos % 64)) & 1ULL;
+    }
+    void setAll() {
+        for (auto& w : bits) w = ~0ULL;
+        if (n % 64 != 0) {
+            bits.back() &= (1ULL << (n % 64)) - 1;
+        }
+    }
+    void copyFrom(const Bitset& o) {
+        bits = o.bits;
+    }
+    void andWith(const Bitset& o) {
+        for (int i = 0; i < num_words; ++i) {
+            bits[i] &= o.bits[i];
+        }
+    }
+};
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    int n;
+    string s_str;
+    cin >> n >> s_str;
+    vector<int> s(n);
+    vector<vector<int>> pos(8);
+    for (int i = 0; i < n; ++i) {
+        s[i] = s_str[i] - 'a';
+        pos[s[i]].push_back(i);
+    }
+
+    // f[i][c] = distance from i to nearest occurrence of character c
+    vector<vector<int>> f(n, vector<int>(8, INF));
+    for (int c = 0; c < 8; ++c) {
+        if (pos[c].empty()) continue;
+        vector<int> dist(n, INF);
+        queue<int> q;
+        vector<bool> vis_char(8, false);
+        vis_char[c] = true;
+        for (int i : pos[c]) {
+            dist[i] = 0;
+            q.push(i);
+        }
+        while (!q.empty()) {
+            int u = q.front(); q.pop();
+            int d = dist[u];
+            if (u > 0 && dist[u - 1] > d + 1) {
+                dist[u - 1] = d + 1;
+                q.push(u - 1);
+            }
+            if (u < n - 1 && dist[u + 1] > d + 1) {
+                dist[u + 1] = d + 1;
+                q.push(u + 1);
+            }
+            int c2 = s[u];
+            if (!vis_char[c2]) {
+                vis_char[c2] = true;
+                for (int v : pos[c2]) {
+                    if (dist[v] > d + 1) {
+                        dist[v] = d + 1;
+                        q.push(v);
+                    }
+                }
+            }
+        }
+        for (int i = 0; i < n; ++i) f[i][c] = dist[i];
+    }
+
+    // Precompute bitsets for fast dominance queries
+    vector<vector<Bitset>> B_global(8, vector<Bitset>(16, Bitset(n)));
+    for (int c = 0; c < 8; ++c) {
+        if (pos[c].empty()) {
+            for (int t = 1; t <= 15; ++t) B_global[c][t].setAll();
+        } else {
+            for (int t = 1; t <= 15; ++t) {
+                for (int j = 0; j < n; ++j) {
+                    if (f[j][c] >= t) B_global[c][t].set(j);
+                }
+            }
+        }
+    }
+
+    // Find the largest D and count pairs
+    for (int D = 15; D >= 2; --D) {
+        int T = D - 1;
+        unordered_map<uint32_t, vector<int>> groups;
+        for (int i = 0; i + D < n; ++i) {
+            uint32_t L_id = 0;
+            for (int c = 0; c < 8; ++c) {
+                int Lc = max(0, T - f[i][c]);
+                L_id |= (static_cast<uint32_t>(Lc) << (4 * c));
+            }
+            groups[L_id].push_back(i);
+        }
+        long long ans = 0;
+        Bitset valid(n);
+        vector<int> pref(n + 1);
+        for (auto& [L_id, vec] : groups) {
+            bool first = true;
+            for (int c = 0; c < 8; ++c) {
+                int Lc = (L_id >> (4 * c)) & 0xF;
+                if (Lc > 0) {
+                    if (first) {
+                        valid.copyFrom(B_global[c][Lc]);
+                        first = false;
+                    } else {
+                        valid.andWith(B_global[c][Lc]);
+                    }
+                }
+            }
+            if (first) valid.setAll();  // should not happen for D>=2
+            // build prefix sum of valid bitset
+            pref[0] = 0;
+            for (int j = 0; j < n; ++j) {
+                pref[j + 1] = pref[j] + (valid.get(j) ? 1 : 0);
+            }
+            for (int i : vec) {
+                int start = i + D;
+                if (start < n) {
+                    ans += pref[n] - pref[start];
+                }
+            }
+        }
+        if (ans > 0) {
+            cout << D << " " << ans << "\n";
+            return 0;
+        }
+    }
+
+    // diameter == 1
+    long long total_pairs = (long long)n * (n - 1) / 2;
+    cout << "1 " << total_pairs << "\n";
+    return 0;
+}
