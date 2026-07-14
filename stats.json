@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-07-13",
-  "todayCount": 9,
+  "totalSolved": 10,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-07-14",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 8
   },
@@ -19,20 +19,14 @@
     "Codeforces_1926A_-_Vlad_and_the_Best_of_Five": true,
     "Codeforces_1788A_-_One_and_Two": true,
     "Codeforces_718E_-_Matveys_Birthday": true,
-    "Codeforces_1739B_-_Array_Recovery": true
+    "Codeforces_1739B_-_Array_Recovery": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true
   },
   "activityHistory": {
-    "2026-07-13": 9
+    "2026-07-13": 9,
+    "2026-07-14": 1
   },
   "todayProblems": [
-    "Edit Distance",
-    "687A - NP-Hard Problem",
-    "437D - The Child and Zoo",
-    "1036C - Classy Numbers",
-    "339B - Xenia and Ringroad",
-    "1926A - Vlad and the Best of Five",
-    "1788A - One and Two",
-    "718E - Matveys Birthday",
-    "1739B - Array Recovery"
+    "Best Time to Buy and Sell Stock II"
   ]
 }
