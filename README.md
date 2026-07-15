@@ -48,3 +48,4 @@
 | 46 | [718E - Matveys Birthday](./Codeforces/basic/718E%20-%20Matveys%20Birthday) | [Codeforces](https://codeforces.com/problemset/problem/718/E) | basic | 13 Jul 2026 | 08:50 pm |
 | 47 | [1739B - Array Recovery](./Codeforces/basic/1739B%20-%20Array%20Recovery) | [Codeforces](https://codeforces.com/problemset/problem/1739/B) | basic | 13 Jul 2026 | 08:50 pm |
 | 48 | [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 14 Jul 2026 | 03:20 pm |
+| 49 | [Best Time to Buy and Sell Stock with Cooldown](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | 15 Jul 2026 | 11:36 am |

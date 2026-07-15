@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-07-14",
+  "totalSolved": 11,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-07-15",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 8
   },
@@ -20,13 +20,15 @@
     "Codeforces_1788A_-_One_and_Two": true,
     "Codeforces_718E_-_Matveys_Birthday": true,
     "Codeforces_1739B_-_Array_Recovery": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown": true
   },
   "activityHistory": {
     "2026-07-13": 9,
-    "2026-07-14": 1
+    "2026-07-14": 1,
+    "2026-07-15": 1
   },
   "todayProblems": [
-    "Best Time to Buy and Sell Stock II"
+    "Best Time to Buy and Sell Stock with Cooldown"
   ]
 }
