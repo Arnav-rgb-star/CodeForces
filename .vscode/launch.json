@@ -3,6 +3,496 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bracketcoloring",
+      "request": "launch",
+      "mainClass": "bracketcoloring",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "stephanAndPermutation",
+      "request": "launch",
+      "mainClass": "stephanAndPermutation",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "yaroslavAndProd",
+      "request": "launch",
+      "mainClass": "yaroslavAndProd",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "neatNikita",
+      "request": "launch",
+      "mainClass": "neatNikita",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "drawings",
+      "request": "launch",
+      "mainClass": "drawings",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "cirnoAndNumber",
+      "request": "launch",
+      "mainClass": "cirnoAndNumber",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "arrayRecovery",
+      "request": "launch",
+      "mainClass": "arrayRecovery",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "arrayrecovery",
+      "request": "launch",
+      "mainClass": "arrayrecovery",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "dances",
+      "request": "launch",
+      "mainClass": "dances",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "ezCraftAndArray",
+      "request": "launch",
+      "mainClass": "ezCraftAndArray",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "boredom",
+      "request": "launch",
+      "mainClass": "boredom",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "singleWildCard",
+      "request": "launch",
+      "mainClass": "singleWildCard",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "jhonnyAndRatingDrop",
+      "request": "launch",
+      "mainClass": "jhonnyAndRatingDrop",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "flippingGame",
+      "request": "launch",
+      "mainClass": "flippingGame",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "hamiltonianWall",
+      "request": "launch",
+      "mainClass": "hamiltonianWall",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "longJumpTab",
+      "request": "launch",
+      "mainClass": "longJumpTab",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "longJumps",
+      "request": "launch",
+      "mainClass": "longJumps",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "yetAnotherCoinProblem",
+      "request": "launch",
+      "mainClass": "yetAnotherCoinProblem",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "fancyCoins",
+      "request": "launch",
+      "mainClass": "fancyCoins",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "findTheSpruce",
+      "request": "launch",
+      "mainClass": "findTheSpruce",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "binaryCut",
+      "request": "launch",
+      "mainClass": "binaryCut",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "primeMatrix",
+      "request": "launch",
+      "mainClass": "primeMatrix",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "prefixSumAddicts",
+      "request": "launch",
+      "mainClass": "prefixSumAddicts",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "willBeFlippingHard",
+      "request": "launch",
+      "mainClass": "willBeFlippingHard",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "freqDivision",
+      "request": "launch",
+      "mainClass": "freqDivision",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "bigram",
+      "request": "launch",
+      "mainClass": "bigram",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "yarikAndMusicalNotes",
+      "request": "launch",
+      "mainClass": "yarikAndMusicalNotes",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "annoyingGame",
+      "request": "launch",
+      "mainClass": "annoyingGame",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "costOfBracketSeq",
+      "request": "launch",
+      "mainClass": "costOfBracketSeq",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "twoOutOfThree",
+      "request": "launch",
+      "mainClass": "twoOutOfThree",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "formingTraingles",
+      "request": "launch",
+      "mainClass": "formingTraingles",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "anotherSortingProblem",
+      "request": "launch",
+      "mainClass": "anotherSortingProblem",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "doubleString",
+      "request": "launch",
+      "mainClass": "doubleString",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "binomialCoefficient",
+      "request": "launch",
+      "mainClass": "binomialCoefficient",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "aiFindsNothing",
+      "request": "launch",
+      "mainClass": "aiFindsNothing",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "berlandRegional",
+      "request": "launch",
+      "mainClass": "berlandRegional",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "anAltWay",
+      "request": "launch",
+      "mainClass": "anAltWay",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "removevomeR",
+      "request": "launch",
+      "mainClass": "removevomeR",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "goodTimesGoodTimes",
+      "request": "launch",
+      "mainClass": "goodTimesGoodTimes",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "divideAndConquer",
+      "request": "launch",
+      "mainClass": "divideAndConquer",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "CTS",
+      "request": "launch",
+      "mainClass": "CTS",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "tape",
+      "request": "launch",
+      "mainClass": "tape",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "basketballGame",
+      "request": "launch",
+      "mainClass": "basketballGame",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "crimsonTriples",
+      "request": "launch",
+      "mainClass": "crimsonTriples",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "PapyrusPuzzle",
+      "request": "launch",
+      "mainClass": "PapyrusPuzzle",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "papyrusPuzzle",
+      "request": "launch",
+      "mainClass": "papyrusPuzzle",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "kthBeautifulString",
+      "request": "launch",
+      "mainClass": "kthBeautifulString",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "popCount",
+      "request": "launch",
+      "mainClass": "popCount",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "lessOrEqual",
+      "request": "launch",
+      "mainClass": "lessOrEqual",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "substringSort",
+      "request": "launch",
+      "mainClass": "substringSort",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "productQueriesMemoization",
+      "request": "launch",
+      "mainClass": "productQueriesMemoization",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "productQueries",
+      "request": "launch",
+      "mainClass": "productQueries",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "oracleAndModel",
+      "request": "launch",
+      "mainClass": "oracleAndModel",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "nearlyGoodNum",
+      "request": "launch",
+      "mainClass": "nearlyGoodNum",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "chipmunkEquality",
+      "request": "launch",
+      "mainClass": "chipmunkEquality",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "blockSeq",
+      "request": "launch",
+      "mainClass": "blockSeq",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "allWentSide",
+      "request": "launch",
+      "mainClass": "allWentSide",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "duckSurplus",
+      "request": "launch",
+      "mainClass": "duckSurplus",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "brandNewTv",
+      "request": "launch",
+      "mainClass": "brandNewTv",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "candyBox",
+      "request": "launch",
+      "mainClass": "candyBox",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "journeyPlanning",
+      "request": "launch",
+      "mainClass": "journeyPlanning",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "arrTheSheep",
+      "request": "launch",
+      "mainClass": "arrTheSheep",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "againstAllDifferences",
+      "request": "launch",
+      "mainClass": "againstAllDifferences",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "noOfProducts",
+      "request": "launch",
+      "mainClass": "noOfProducts",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "palindromeMex",
+      "request": "launch",
+      "mainClass": "palindromeMex",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "weirdSum",
+      "request": "launch",
+      "mainClass": "weirdSum",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "fieldsTrip",
+      "request": "launch",
+      "mainClass": "fieldsTrip",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "fieldstrip",
+      "request": "launch",
+      "mainClass": "fieldstrip",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "arrangeTheNumbersInCircle",
+      "request": "launch",
+      "mainClass": "arrangeTheNumbersInCircle",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "amrAndPins",
+      "request": "launch",
+      "mainClass": "amrAndPins",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
       "name": "taylorTrees",
       "request": "launch",
       "mainClass": "taylorTrees",

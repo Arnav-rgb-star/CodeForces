@@ -1,0 +1,70 @@
+
+import java.io.*;
+import java.util.*;
+public class primeMatrix{
+    static ArrayList<Integer> p;
+
+    static int bs(int x){
+        int l=0;
+        int r=p.size()-1;
+
+        while(l<=r){
+            int m = l + (r-l)/2;
+            if(p.get(m)==x) return p.get(m);
+            if(p.get(m)>x) r=m-1;
+            else l=m+1;
+        }
+        return l<p.size()?p.get(l) : -1;
+    }
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int n = Integer.parseInt(st.nextToken());
+        int m = Integer.parseInt(st.nextToken());
+
+        int a[][]=new int[n+1][m+1];
+        for(int i=1;i<=n;i++){
+            st = new StringTokenizer(br.readLine());
+            for(int j=1;j<=m;j++) a[i][j]=Integer.parseInt(st.nextToken());
+        }
+
+        p = new ArrayList<>();
+        int k = 1_00_010;
+        boolean  prime[]=new boolean[k+1];
+        for(int i=2;i<=k;i++) prime[i]=true;
+
+        for(int i=2;i*i<=k;i++){
+            if(prime[i]){
+                for(int j=i*i;j<=k;j+=i){
+                    prime[j]=false;
+                }
+            }
+        }
+        for(int i=2;i<=k;i++){
+            if(prime[i]) p.add(i);
+        }
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                int v =bs(a[i][j]);
+                if(v!=-1) a[i][j]=v-a[i][j];;
+            }
+        }
+        int min=1_00_001;
+        for(int i=1;i<=n;i++){
+            int h=0;
+            for(int j=1;j<=m;j++){
+                h+=a[i][j];
+            }
+            min=Math.min(h,min);
+        }
+
+        for(int j=1;j<=m;j++){
+            int h=0;
+            for(int i=1;i<=n;i++){
+                h+=a[i][j];
+            }
+            min=Math.min(h,min);
+        }
+        System.out.println(min);
+    }
+}

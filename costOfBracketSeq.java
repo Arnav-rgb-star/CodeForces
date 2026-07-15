@@ -1,0 +1,56 @@
+
+import java.io.*;
+import java.util.*;
+public class costOfBracketSeq {
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int k = Integer.parseInt(st.nextToken());
+
+            String str = br.readLine();
+            int r=0;
+            int l=0;
+
+            for(int i=0;i<n;i++){
+                if(str.charAt(i)==')') ++r;
+            }
+            int min=r;
+            int p=0;
+            for(int i=0;i<n;i++){
+                if(str.charAt(i)==')') --r;
+                else ++l;
+
+                if(min>(l+r)){
+                    p=i+1;
+                    min=l+r;
+                }
+            }
+            char[] ans=new char[n];
+            Arrays.fill(ans,'0');
+
+            int remove=Math.min(k,min);
+
+            for(int i=0;i<p && remove>0;i++){
+                if(str.charAt(i)=='('){
+                    ans[i]='1';
+                    --remove;
+                }
+            }
+
+            for(int i=p;i<n && remove>0;i++){
+                if(str.charAt(i)==')'){
+                    ans[i]='1';
+                    --remove;
+                }
+            }
+            sb.append(ans).append('\n');
+        }
+
+        System.out.println(sb);
+    }
+}
