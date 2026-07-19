@@ -51,3 +51,4 @@
 | 49 | [Best Time to Buy and Sell Stock with Cooldown](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | 15 Jul 2026 | 11:36 am |
 | 50 | [Best Time to Buy and Sell Stock with Transaction Fee](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | 15 Jul 2026 | 11:38 am |
 | 51 | [1837D - Bracket Coloring](./Codeforces/basic/1837D%20-%20Bracket%20Coloring) | [Codeforces](https://codeforces.com/problemset/problem/1837/D) | basic | 15 Jul 2026 | 08:23 pm |
+| 52 | [Largest Divisible Subset](./LeetCode/Medium/Largest%20Divisible%20Subset) | [LeetCode](https://leetcode.com/problems/largest-divisible-subset/) | Medium | 19 Jul 2026 | 06:50 pm |
