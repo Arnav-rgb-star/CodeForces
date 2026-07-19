@@ -1,0 +1,29 @@
+
+import java.io.*;
+import java.util.*;
+public class subRBS {
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            String str = br.readLine();
+            int open=0;
+            boolean possible=false;
+
+            for(int i=n-1;i>=0;i--){
+                if(str.charAt(i)=='(') ++open;
+                if(open>=2 && str.charAt(i)==')'){
+                    possible=true;
+                    break;
+                }
+            }
+            if(possible) sb.append(n-2).append("\n");
+            else sb.append(-1).append("\n");
+        }
+
+        System.out.println(sb);
+    }
+}

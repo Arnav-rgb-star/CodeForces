@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "subRBS",
+      "request": "launch",
+      "mainClass": "subRBS",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "subseqInv",
+      "request": "launch",
+      "mainClass": "subseqInv",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "subseqinv",
+      "request": "launch",
+      "mainClass": "subseqinv",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "yetAnotherCons",
+      "request": "launch",
+      "mainClass": "yetAnotherCons",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "zeroSum",
+      "request": "launch",
+      "mainClass": "zeroSum",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "unstableElements",
+      "request": "launch",
+      "mainClass": "unstableElements",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "unstableStrings",
+      "request": "launch",
+      "mainClass": "unstableStrings",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "wrongAddition",
+      "request": "launch",
+      "mainClass": "wrongAddition",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "deleteAndCon",
+      "request": "launch",
+      "mainClass": "deleteAndCon",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "watchPigPair",
+      "request": "launch",
+      "mainClass": "watchPigPair",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "watchPigpair",
+      "request": "launch",
+      "mainClass": "watchPigpair",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
+      "name": "collatzConjecture",
+      "request": "launch",
+      "mainClass": "collatzConjecture",
+      "projectName": "CP Sheet_bc687bee"
+    },
+    {
+      "type": "java",
       "name": "bracketcoloring",
       "request": "launch",
       "mainClass": "bracketcoloring",
