@@ -1,14 +1,14 @@
 {
-  "totalSolved": 14,
-  "currentStreak": 1,
+  "totalSolved": 15,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-07-19",
+  "lastSyncDate": "2026-07-20",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 5,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -24,15 +24,17 @@
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee": true,
     "Codeforces_1837D_-_Bracket_Coloring": true,
-    "LeetCode_Largest_Divisible_Subset": true
+    "LeetCode_Largest_Divisible_Subset": true,
+    "Codeforces_2190B1_-_Sub-RBS_Easy_Version": true
   },
   "activityHistory": {
     "2026-07-13": 9,
     "2026-07-14": 1,
     "2026-07-15": 3,
-    "2026-07-19": 1
+    "2026-07-19": 1,
+    "2026-07-20": 1
   },
   "todayProblems": [
-    "Largest Divisible Subset"
+    "2190B1 - Sub-RBS Easy Version"
   ]
 }
