@@ -1,0 +1,40 @@
+import java.io.*;
+import java.util.*;
+public class redBlackPairs{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            String upper  = br.readLine();
+            String lower = br.readLine();
+
+            char grid[][]=new char[2][n];
+            grid[0]=upper.toCharArray();
+            grid[1]=lower.toCharArray();
+
+            int dp[]=new int[n+1];
+
+            for(int i=n-1;i>=0;i--){
+                int vCost=0;
+                int hCost=0;
+
+                if(grid[0][i]!=grid[1][i]) ++vCost;
+                dp[i] = dp[i+1]+vCost;
+
+                if(i<n-1){
+                    if(grid[0][i]!=grid[0][i+1]) ++hCost;
+                    if(grid[1][i]!=grid[1][i+1]) ++hCost;
+
+                    dp[i]=Math.min(dp[i],hCost+dp[i+2]);
+                }
+            }
+            result.append(dp[0]).append("\n");
+        }
+
+        System.out.println(result);
+    }
+}
+
