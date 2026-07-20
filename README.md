@@ -54,3 +54,4 @@
 | 52 | [Largest Divisible Subset](./LeetCode/Medium/Largest%20Divisible%20Subset) | [LeetCode](https://leetcode.com/problems/largest-divisible-subset/) | Medium | 19 Jul 2026 | 06:50 pm |
 | 53 | [2190B1 - Sub-RBS Easy Version](./Codeforces/basic/2190B1%20-%20Sub-RBS%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2190/B1) | basic | 20 Jul 2026 | 03:30 pm |
 | 54 | [2225C - Red-Black Pairs](./Codeforces/basic/2225C%20-%20Red-Black%20Pairs) | [Codeforces](https://codeforces.com/problemset/problem/2225/C) | basic | 20 Jul 2026 | 03:30 pm |
+| 55 | [D - Subtract Min Sort](./Codeforces/basic/D%20-%20Subtract%20Min%20Sort) | [Codeforces](https://codeforces.com/contest/2060/problem/D) | basic | 20 Jul 2026 | 06:38 pm |
