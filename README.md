@@ -56,3 +56,4 @@
 | 54 | [2225C - Red-Black Pairs](./Codeforces/basic/2225C%20-%20Red-Black%20Pairs) | [Codeforces](https://codeforces.com/problemset/problem/2225/C) | basic | 20 Jul 2026 | 03:30 pm |
 | 55 | [D - Subtract Min Sort](./Codeforces/basic/D%20-%20Subtract%20Min%20Sort) | [Codeforces](https://codeforces.com/contest/2060/problem/D) | basic | 20 Jul 2026 | 06:38 pm |
 | 56 | [Longest String Chain](./LeetCode/Medium/Longest%20String%20Chain) | [LeetCode](https://leetcode.com/problems/longest-string-chain/) | Medium | 20 Jul 2026 | 11:28 pm |
+| 57 | [2169C - Range Operation](./Codeforces/basic/2169C%20-%20Range%20Operation) | [Codeforces](https://codeforces.com/problemset/problem/2169/C) | basic | 21 Jul 2026 | 12:45 pm |
