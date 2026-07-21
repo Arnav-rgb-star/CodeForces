@@ -57,3 +57,4 @@
 | 55 | [D - Subtract Min Sort](./Codeforces/basic/D%20-%20Subtract%20Min%20Sort) | [Codeforces](https://codeforces.com/contest/2060/problem/D) | basic | 20 Jul 2026 | 06:38 pm |
 | 56 | [Longest String Chain](./LeetCode/Medium/Longest%20String%20Chain) | [LeetCode](https://leetcode.com/problems/longest-string-chain/) | Medium | 20 Jul 2026 | 11:28 pm |
 | 57 | [2169C - Range Operation](./Codeforces/basic/2169C%20-%20Range%20Operation) | [Codeforces](https://codeforces.com/problemset/problem/2169/C) | basic | 21 Jul 2026 | 12:45 pm |
+| 58 | [Sum of Unique Elements](./LeetCode/Easy/Sum%20of%20Unique%20Elements) | [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | 21 Jul 2026 | 04:22 pm |

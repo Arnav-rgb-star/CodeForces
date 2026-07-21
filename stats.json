@@ -1,11 +1,11 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 6,
     "hard": 0,
     "basic": 13
@@ -29,7 +29,8 @@
     "Codeforces_2225C_-_Red-Black_Pairs": true,
     "Codeforces_D_-_Subtract_Min_Sort": true,
     "LeetCode_Longest_String_Chain": true,
-    "Codeforces_2169C_-_Range_Operation": true
+    "Codeforces_2169C_-_Range_Operation": true,
+    "LeetCode_Sum_of_Unique_Elements": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -37,9 +38,10 @@
     "2026-07-15": 3,
     "2026-07-19": 1,
     "2026-07-20": 4,
-    "2026-07-21": 1
+    "2026-07-21": 2
   },
   "todayProblems": [
-    "2169C - Range Operation"
+    "2169C - Range Operation",
+    "Sum of Unique Elements"
   ]
 }
