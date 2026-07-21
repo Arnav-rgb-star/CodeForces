@@ -58,3 +58,4 @@
 | 56 | [Longest String Chain](./LeetCode/Medium/Longest%20String%20Chain) | [LeetCode](https://leetcode.com/problems/longest-string-chain/) | Medium | 20 Jul 2026 | 11:28 pm |
 | 57 | [2169C - Range Operation](./Codeforces/basic/2169C%20-%20Range%20Operation) | [Codeforces](https://codeforces.com/problemset/problem/2169/C) | basic | 21 Jul 2026 | 12:45 pm |
 | 58 | [Sum of Unique Elements](./LeetCode/Easy/Sum%20of%20Unique%20Elements) | [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | 21 Jul 2026 | 04:22 pm |
+| 59 | [1519A - Red and Blue Beans](./Codeforces/basic/1519A%20-%20Red%20and%20Blue%20Beans) | [Codeforces](https://codeforces.com/problemset/problem/1519/A) | basic | 21 Jul 2026 | 07:16 pm |

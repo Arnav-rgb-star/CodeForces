@@ -1,14 +1,14 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 1,
     "medium": 6,
     "hard": 0,
-    "basic": 13
+    "basic": 14
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -30,7 +30,8 @@
     "Codeforces_D_-_Subtract_Min_Sort": true,
     "LeetCode_Longest_String_Chain": true,
     "Codeforces_2169C_-_Range_Operation": true,
-    "LeetCode_Sum_of_Unique_Elements": true
+    "LeetCode_Sum_of_Unique_Elements": true,
+    "Codeforces_1519A_-_Red_and_Blue_Beans": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -38,10 +39,11 @@
     "2026-07-15": 3,
     "2026-07-19": 1,
     "2026-07-20": 4,
-    "2026-07-21": 2
+    "2026-07-21": 3
   },
   "todayProblems": [
     "2169C - Range Operation",
-    "Sum of Unique Elements"
+    "Sum of Unique Elements",
+    "1519A - Red and Blue Beans"
   ]
 }
