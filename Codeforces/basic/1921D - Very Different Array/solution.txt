@@ -1,0 +1,64 @@
+import java.io.*;
+import java.util.*;
+public class veryDifferentArray{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            StringTokenizer st =new StringTokenizer(br.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int m = Integer.parseInt(st.nextToken());
+
+            int a[] = new int[n];
+            st = new StringTokenizer(br.readLine());
+            for(int i=0;i<n;i++) a[i] = Integer.parseInt(st.nextToken());
+
+            int b[]=new int[m];
+            st = new StringTokenizer(br.readLine());
+            for(int i=0;i<m;i++) b[i] = Integer.parseInt(st.nextToken());
+            long d=0;
+
+            int i=0;
+            int j=n-1;
+            int l=0;
+            int r=m-1;
+
+            Arrays.sort(a);
+            Arrays.sort(b);
+
+            while(i<=j){
+                int c1  = Math.max(Math.abs(a[i]-b[l]),Math.abs(a[i]-b[r]));
+                int c2  = Math.max(Math.abs(a[j]-b[l]),Math.abs(a[j]-b[r]));
+
+                if(c1>=c2){
+                    int d1 = Math.abs(a[i]-b[l]);
+                    int d2 = Math.abs(a[i]-b[r]);
+                    if(d1>=d2){
+                        d+= 1L*d1;
+                        ++l;
+                    }else{
+                        d+= 1L*d2;
+                        --r;
+                    }
+                    ++i;
+                }else{
+                    int d1 = Math.abs(a[j]-b[l]);
+                    int d2 = Math.abs(a[j]-b[r]);
+                    if(d1>=d2){
+                        d+= 1L*d1;
+                        ++l;
+                    }else{
+                        d+= 1L*d2;
+                        --r;
+                    }
+                    --j;
+                }
+            }
+            result.append(d).append("\n");
+        }
+ 
+        System.out.println(result);
+    }
+}
