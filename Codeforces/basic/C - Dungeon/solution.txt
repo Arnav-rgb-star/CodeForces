@@ -1,0 +1,58 @@
+import java.io.*;
+import java.util.*;
+public class dungeon{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int m = Integer.parseInt(st.nextToken());
+
+            st = new StringTokenizer(br.readLine());
+            
+            TreeMap<Integer,Integer> tree = new TreeMap<>();
+            for(int i=0;i<n;i++){
+                int key = Integer.parseInt(st.nextToken());
+                tree.put(key,tree.getOrDefault(key,0)+1);
+            }
+            int p[][]=new int[m][2];
+            st = new StringTokenizer(br.readLine());
+
+            for(int i=0;i<m;i++) p[i][0]=Integer.parseInt(st.nextToken());
+            st = new StringTokenizer(br.readLine());
+            for(int i=0;i<m;i++) p[i][1]=Integer.parseInt(st.nextToken());
+
+            Arrays.sort(p,(x,y)->{
+                if(x[1]>0 && y[1]==0) return -1;
+                else if(x[1]==0 && y[1]>0) return 1;
+                else return Integer.compare(x[0],y[0]);
+            });
+
+            int monster=0;
+
+            for(int i=0;i<m;i++){
+                Integer ub = tree.ceilingKey(p[i][0]);
+                if(p[i][1]>0 && ub!=null){
+                    tree.put(ub,tree.get(ub)-1);
+                    if(tree.get(ub) == 0) tree.remove(ub);
+
+                    tree.put(Math.max(p[i][1],ub),tree.getOrDefault(Math.max(p[i][1],ub),0)+1);
+                    ++monster;
+                }else{
+                    if(ub!=null){
+                        tree.put(ub,tree.get(ub)-1);
+                        if(tree.get(ub) == 0) tree.remove(ub);
+
+                        ++monster;
+                    }
+                }
+            }
+            result.append(monster).append("\n");
+        }
+ 
+        System.out.println(result);
+    }
+}
