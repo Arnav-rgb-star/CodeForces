@@ -60,3 +60,4 @@
 | 58 | [Sum of Unique Elements](./LeetCode/Easy/Sum%20of%20Unique%20Elements) | [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | 21 Jul 2026 | 04:22 pm |
 | 59 | [1519A - Red and Blue Beans](./Codeforces/basic/1519A%20-%20Red%20and%20Blue%20Beans) | [Codeforces](https://codeforces.com/problemset/problem/1519/A) | basic | 21 Jul 2026 | 07:16 pm |
 | 60 | [C - Dungeon](./Codeforces/basic/C%20-%20Dungeon) | [Codeforces](https://codeforces.com/contest/2164/problem/C) | basic | 22 Jul 2026 | 02:18 pm |
+| 61 | [1547C - Pair Programming](./Codeforces/basic/1547C%20-%20Pair%20Programming) | [Codeforces](https://codeforces.com/problemset/problem/1547/C) | basic | 22 Jul 2026 | 03:19 pm |

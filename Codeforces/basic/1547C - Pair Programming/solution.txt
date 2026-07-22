@@ -1,0 +1,55 @@
+import java.io.*;
+import java.util.*;
+public class pairProgramming{
+    public static void main(String[] args)throws IOException {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        StringBuilder result = new StringBuilder();
+        
+        while(t-->0){
+            ArrayList<Integer> seq  =new ArrayList<>();
+            int k = sc.nextInt();
+            int n = sc.nextInt();
+            int m = sc.nextInt();
+
+            int[] a = new int[n];
+            for(int i=0;i<n;i++) a[i]=sc.nextInt();
+
+            int[] b = new int[m];
+            for(int i=0;i<m;i++) b[i]=sc.nextInt();
+
+            int i=0;
+            int j=0;
+            while(i<n || j<m){
+                if(i<n && a[i]==0){
+                    seq.add(a[i]);
+                    ++i;
+                    ++k;
+                }else if(j<m && b[j]==0){
+                    seq.add(b[j]);
+                    ++j;
+                    ++k;
+                }else if(i<n && a[i]<=k){
+                    seq.add(a[i]);
+                    ++i;
+                }else if(j<m && b[j]<=k){
+                    seq.add(b[j]);
+                    ++j;
+                }else{
+                    break;
+                }
+            }
+        if(seq.size()!=(n+m)){
+            result.append(-1).append("\n");
+        }else{
+            for(int x: seq){
+                result.append(x + " ");
+            }
+            result.append("\n");
+        }
+
+        }
+ 
+        System.out.println(result);
+    }
+}
