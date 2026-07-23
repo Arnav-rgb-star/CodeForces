@@ -1,0 +1,31 @@
+import java.io.*;
+import java.util.*;
+public class books{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int n = Integer.parseInt(st.nextToken());
+
+        int m = Integer.parseInt(st.nextToken());
+        int a[]=new int[n];
+        st = new StringTokenizer(br.readLine());
+        for(int i=0;i<n;i++) a[i]=Integer.parseInt(st.nextToken()); 
+
+        int t=0;
+        int l=0;
+        int max=0;
+
+
+        for(int r=0;r<n;r++){
+            t+=a[r];
+
+            while(t>m){
+                t-=a[l];
+                l++;
+            }
+            max = Math.max(r-l+1,max);
+        }
+        System.out.println(max);
+    }
+}

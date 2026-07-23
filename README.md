@@ -63,3 +63,4 @@
 | 61 | [1547C - Pair Programming](./Codeforces/basic/1547C%20-%20Pair%20Programming) | [Codeforces](https://codeforces.com/problemset/problem/1547/C) | basic | 22 Jul 2026 | 03:19 pm |
 | 62 | [1921D - Very Different Array](./Codeforces/basic/1921D%20-%20Very%20Different%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1921/D) | basic | 23 Jul 2026 | 01:08 am |
 | 63 | [1133C - Balanced Team](./Codeforces/basic/1133C%20-%20Balanced%20Team) | [Codeforces](https://codeforces.com/problemset/problem/1133/C) | basic | 23 Jul 2026 | 01:41 am |
+| 64 | [279B - Books](./Codeforces/basic/279B%20-%20Books) | [Codeforces](https://codeforces.com/problemset/problem/279/B) | basic | 23 Jul 2026 | 01:21 pm |
