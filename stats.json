@@ -1,14 +1,14 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-23",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 1,
     "medium": 6,
     "hard": 0,
-    "basic": 19
+    "basic": 20
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -36,7 +36,8 @@
     "Codeforces_1547C_-_Pair_Programming": true,
     "Codeforces_1921D_-_Very_Different_Array": true,
     "Codeforces_1133C_-_Balanced_Team": true,
-    "Codeforces_279B_-_Books": true
+    "Codeforces_279B_-_Books": true,
+    "Codeforces_1873F_-_Money_Trees": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -46,11 +47,12 @@
     "2026-07-20": 4,
     "2026-07-21": 3,
     "2026-07-22": 2,
-    "2026-07-23": 3
+    "2026-07-23": 4
   },
   "todayProblems": [
     "1921D - Very Different Array",
     "1133C - Balanced Team",
-    "279B - Books"
+    "279B - Books",
+    "1873F - Money Trees"
   ]
 }
