@@ -67,3 +67,4 @@
 | 65 | [1873F - Money Trees](./Codeforces/basic/1873F%20-%20Money%20Trees) | [Codeforces](https://codeforces.com/problemset/problem/1873/F) | basic | 23 Jul 2026 | 10:38 pm |
 | 66 | [602B - Approximating a Constant Range](./Codeforces/basic/602B%20-%20Approximating%20a%20Constant%20Range) | [Codeforces](https://codeforces.com/problemset/problem/602/B) | basic | 24 Jul 2026 | 01:45 pm |
 | 67 | [C - New Game](./Codeforces/basic/C%20-%20New%20Game) | [Codeforces](https://codeforces.com/contest/2025/problem/C) | basic | 24 Jul 2026 | 05:05 pm |
+| 68 | [251A - Points on Line](./Codeforces/basic/251A%20-%20Points%20on%20Line) | [Codeforces](https://codeforces.com/problemset/problem/251/A) | basic | 25 Jul 2026 | 01:12 am |
