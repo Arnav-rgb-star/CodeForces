@@ -1,0 +1,57 @@
+import java.io.*;
+import java.util.*;
+public class newGame{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int k = Integer.parseInt(st.nextToken());
+            HashMap<Integer,Integer> map = new HashMap<>(); 
+            int a[]=new int[n];
+
+            st = new StringTokenizer(br.readLine());
+            for(int i=0;i<n;i++){
+                a[i]=Integer.parseInt(st.nextToken());
+                map.put(a[i],map.getOrDefault(a[i],0)+1);
+            }
+            Arrays.sort(a);
+            ArrayList<Integer> set = new ArrayList<>();
+            set.add(a[0]);
+
+            for(int i=1;i<n;i++){
+                if(set.get(set.size()-1)!=a[i]) set.add(a[i]);
+            }
+            ArrayDeque<Integer> dq = new ArrayDeque<>();
+
+            int prev= -1;
+            int max=0;
+            int freq=0;
+
+            for(int i=0;i<set.size();i++){
+                if(prev!=(set.get(i)-1)){
+                    while(!dq.isEmpty()){
+                        int ele = dq.removeLast();
+                        freq-=map.get(ele);
+                    }
+                    dq.addLast(set.get(i));
+                    freq += map.get(set.get(i));  
+                }else{
+                    dq.addLast(set.get(i));
+                    freq+=map.get(set.get(i));
+                }
+                while(dq.size()>k){
+                    int ele = dq.removeFirst();
+                    freq-=map.get(ele);
+                }
+                max = Math.max(max,freq);
+                prev=set.get(i);
+            }
+            result.append(max).append("\n");
+        } 
+        System.out.println(result);
+    }
+}
