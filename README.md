@@ -69,3 +69,4 @@
 | 67 | [C - New Game](./Codeforces/basic/C%20-%20New%20Game) | [Codeforces](https://codeforces.com/contest/2025/problem/C) | basic | 24 Jul 2026 | 05:05 pm |
 | 68 | [251A - Points on Line](./Codeforces/basic/251A%20-%20Points%20on%20Line) | [Codeforces](https://codeforces.com/problemset/problem/251/A) | basic | 25 Jul 2026 | 01:12 am |
 | 69 | [1538C - Number of Pairs](./Codeforces/basic/1538C%20-%20Number%20of%20Pairs) | [Codeforces](https://codeforces.com/problemset/problem/1538/C) | basic | 25 Jul 2026 | 07:59 pm |
+| 70 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 25 Jul 2026 | 08:45 pm |
