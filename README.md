@@ -70,3 +70,4 @@
 | 68 | [251A - Points on Line](./Codeforces/basic/251A%20-%20Points%20on%20Line) | [Codeforces](https://codeforces.com/problemset/problem/251/A) | basic | 25 Jul 2026 | 01:12 am |
 | 69 | [1538C - Number of Pairs](./Codeforces/basic/1538C%20-%20Number%20of%20Pairs) | [Codeforces](https://codeforces.com/problemset/problem/1538/C) | basic | 25 Jul 2026 | 07:59 pm |
 | 70 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 25 Jul 2026 | 08:45 pm |
+| 71 | [2051D - Counting Pairs](./Codeforces/basic/2051D%20-%20Counting%20Pairs) | [Codeforces](https://codeforces.com/problemset/problem/2051/D) | basic | 25 Jul 2026 | 09:18 pm |
