@@ -1,0 +1,44 @@
+import java.io.*;
+import java.util.*;
+public class noOfPairs{
+
+    static long count(int a[],int last){
+        long cnt=0;
+        int l=0;
+        int r = a.length-1;
+
+        while(l<r){
+            long sum = (long)a[l]+a[r];
+            if(sum<=last){
+                cnt+= 1l*(r-l);
+                ++l;
+            }else{
+                r--;
+            }
+        }
+        return cnt;
+    }
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int min = Integer.parseInt(st.nextToken());
+            int max =Integer.parseInt(st.nextToken());
+
+            int a[]=new int[n];
+            st = new StringTokenizer(br.readLine());
+            for(int i=0;i<n;i++) a[i]=Integer.parseInt(st.nextToken());
+            
+            Arrays.sort(a);
+            long ans=count(a,max)-count(a,min-1);
+
+            result.append(ans).append("\n");
+        }
+ 
+        System.out.println(result);
+    }
+}
