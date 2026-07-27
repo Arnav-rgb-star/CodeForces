@@ -1,14 +1,14 @@
 {
-  "totalSolved": 34,
-  "currentStreak": 8,
-  "maxStreak": 8,
-  "lastSyncDate": "2026-07-26",
+  "totalSolved": 35,
+  "currentStreak": 9,
+  "maxStreak": 9,
+  "lastSyncDate": "2026-07-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 6,
     "hard": 0,
-    "basic": 26
+    "basic": 27
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -44,7 +44,8 @@
     "Codeforces_1538C_-_Number_of_Pairs": true,
     "LeetCode_Maximum_Product_of_Two_Digits": true,
     "Codeforces_2051D_-_Counting_Pairs": true,
-    "Codeforces_1324D_-_Pair_of_Topics": true
+    "Codeforces_1324D_-_Pair_of_Topics": true,
+    "Codeforces_2250A_-_Threshold_Movement": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -57,9 +58,10 @@
     "2026-07-23": 4,
     "2026-07-24": 2,
     "2026-07-25": 4,
-    "2026-07-26": 1
+    "2026-07-26": 1,
+    "2026-07-27": 1
   },
   "todayProblems": [
-    "1324D - Pair of Topics"
+    "2250A - Threshold Movement"
   ]
 }
