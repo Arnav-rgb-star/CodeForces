@@ -1,0 +1,43 @@
+import java.io.*;
+import java.util.*;
+public class findB{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int q  = Integer.parseInt(st.nextToken());
+
+            long prefix[]=new long[n+1];
+            long ones[]=new long[n+1];
+
+            st = new StringTokenizer(br.readLine());
+
+            for(int i=1;i<=n;i++){
+
+                int value = Integer.parseInt(st.nextToken());
+                prefix[i]=prefix[i-1]+value;
+                ones[i] = ones[i-1];
+                if(value==1) ++ones[i];
+            }
+
+            while(q-->0){
+                st = new StringTokenizer(br.readLine());
+                int l = Integer.parseInt(st.nextToken());
+                int r = Integer.parseInt(st.nextToken());
+
+                long len = 1l*r-l+1;
+                long freq = ones[r]-ones[l-1];
+                long sum = prefix[r]-prefix[l-1];
+
+                if(len>1 && sum>=(len+freq)) result.append("Yes").append("\n");
+                else result.append("NO").append("\n");
+            }
+        }
+ 
+        System.out.println(result);
+    }
+}
