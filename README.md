@@ -76,3 +76,4 @@
 | 74 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 27 Jul 2026 | 01:26 pm |
 | 75 | [1923C - Find B](./Codeforces/basic/1923C%20-%20Find%20B) | [Codeforces](https://codeforces.com/problemset/problem/1923/C) | basic | 28 Jul 2026 | 02:09 pm |
 | 76 | [1352E - Special Elements](./Codeforces/basic/1352E%20-%20Special%20Elements) | [Codeforces](https://codeforces.com/problemset/problem/1352/E) | basic | 28 Jul 2026 | 02:10 pm |
+| 77 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 28 Jul 2026 | 10:07 pm |
