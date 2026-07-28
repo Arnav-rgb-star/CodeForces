@@ -75,3 +75,4 @@
 | 73 | [2250A - Threshold Movement](./Codeforces/basic/2250A%20-%20Threshold%20Movement) | [Codeforces](https://codeforces.com/problemset/problem/2250/A) | basic | 27 Jul 2026 | 11:34 am |
 | 74 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 27 Jul 2026 | 01:26 pm |
 | 75 | [1923C - Find B](./Codeforces/basic/1923C%20-%20Find%20B) | [Codeforces](https://codeforces.com/problemset/problem/1923/C) | basic | 28 Jul 2026 | 02:09 pm |
+| 76 | [1352E - Special Elements](./Codeforces/basic/1352E%20-%20Special%20Elements) | [Codeforces](https://codeforces.com/problemset/problem/1352/E) | basic | 28 Jul 2026 | 02:10 pm |

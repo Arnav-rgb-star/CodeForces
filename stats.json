@@ -1,14 +1,14 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-07-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 7,
     "hard": 0,
-    "basic": 28
+    "basic": 29
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -47,7 +47,8 @@
     "Codeforces_1324D_-_Pair_of_Topics": true,
     "Codeforces_2250A_-_Threshold_Movement": true,
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
-    "Codeforces_1923C_-_Find_B": true
+    "Codeforces_1923C_-_Find_B": true,
+    "Codeforces_1352E_-_Special_Elements": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -62,9 +63,10 @@
     "2026-07-25": 4,
     "2026-07-26": 1,
     "2026-07-27": 2,
-    "2026-07-28": 1
+    "2026-07-28": 2
   },
   "todayProblems": [
-    "1923C - Find B"
+    "1923C - Find B",
+    "1352E - Special Elements"
   ]
 }
