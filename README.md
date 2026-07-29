@@ -78,3 +78,4 @@
 | 76 | [1352E - Special Elements](./Codeforces/basic/1352E%20-%20Special%20Elements) | [Codeforces](https://codeforces.com/problemset/problem/1352/E) | basic | 28 Jul 2026 | 02:10 pm |
 | 77 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 28 Jul 2026 | 10:07 pm |
 | 78 | [2008F - Sakurakos Box](./Codeforces/basic/2008F%20-%20Sakurakos%20Box) | [Codeforces](https://codeforces.com/problemset/problem/2008/F) | basic | 29 Jul 2026 | 11:51 am |
+| 79 | [1526C1 - Potions Easy Version](./Codeforces/basic/1526C1%20-%20Potions%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/1526/C1) | basic | 29 Jul 2026 | 12:57 pm |
