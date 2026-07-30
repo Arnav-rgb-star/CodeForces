@@ -1,14 +1,14 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 1,
-    "basic": 31
+    "basic": 32
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -53,7 +53,8 @@
     "Codeforces_2008F_-_Sakurakos_Box": true,
     "Codeforces_1526C1_-_Potions_Easy_Version": true,
     "LeetCode_Count_Number_of_Nice_Subarrays": true,
-    "LeetCode_Subarrays_with_K_Different_Integers": true
+    "LeetCode_Subarrays_with_K_Different_Integers": true,
+    "Codeforces_1903C_-_Theofanis_Nightmare": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -70,10 +71,11 @@
     "2026-07-27": 2,
     "2026-07-28": 3,
     "2026-07-29": 2,
-    "2026-07-30": 2
+    "2026-07-30": 3
   },
   "todayProblems": [
     "Count Number of Nice Subarrays",
-    "Subarrays with K Different Integers"
+    "Subarrays with K Different Integers",
+    "1903C - Theofanis Nightmare"
   ]
 }
