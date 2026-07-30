@@ -80,3 +80,4 @@
 | 78 | [2008F - Sakurakos Box](./Codeforces/basic/2008F%20-%20Sakurakos%20Box) | [Codeforces](https://codeforces.com/problemset/problem/2008/F) | basic | 29 Jul 2026 | 11:51 am |
 | 79 | [1526C1 - Potions Easy Version](./Codeforces/basic/1526C1%20-%20Potions%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/1526/C1) | basic | 29 Jul 2026 | 12:57 pm |
 | 80 | [Count Number of Nice Subarrays](./LeetCode/Medium/Count%20Number%20of%20Nice%20Subarrays) | [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | 30 Jul 2026 | 10:58 am |
+| 81 | [Subarrays with K Different Integers](./LeetCode/Hard/Subarrays%20with%20K%20Different%20Integers) | [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | 30 Jul 2026 | 11:20 am |

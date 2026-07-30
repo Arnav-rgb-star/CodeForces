@@ -1,13 +1,13 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
-    "hard": 0,
+    "hard": 1,
     "basic": 31
   },
   "syncedProblems": {
@@ -52,7 +52,8 @@
     "LeetCode_Subarray_Sum_Equals_K": true,
     "Codeforces_2008F_-_Sakurakos_Box": true,
     "Codeforces_1526C1_-_Potions_Easy_Version": true,
-    "LeetCode_Count_Number_of_Nice_Subarrays": true
+    "LeetCode_Count_Number_of_Nice_Subarrays": true,
+    "LeetCode_Subarrays_with_K_Different_Integers": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -69,9 +70,10 @@
     "2026-07-27": 2,
     "2026-07-28": 3,
     "2026-07-29": 2,
-    "2026-07-30": 1
+    "2026-07-30": 2
   },
   "todayProblems": [
-    "Count Number of Nice Subarrays"
+    "Count Number of Nice Subarrays",
+    "Subarrays with K Different Integers"
   ]
 }
