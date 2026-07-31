@@ -84,3 +84,4 @@
 | 82 | [1903C - Theofanis Nightmare](./Codeforces/basic/1903C%20-%20Theofanis%20Nightmare) | [Codeforces](https://codeforces.com/problemset/problem/1903/C) | basic | 30 Jul 2026 | 03:32 pm |
 | 83 | [276C - Little Girl and Maximum Sum](./Codeforces/basic/276C%20-%20Little%20Girl%20and%20Maximum%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/276/C) | basic | 30 Jul 2026 | 11:29 pm |
 | 84 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 31 Jul 2026 | 12:14 pm |
+| 85 | [C - The Delivery Dilemma](./Codeforces/basic/C%20-%20The%20Delivery%20Dilemma) | [Codeforces](https://codeforces.com/contest/1443/problem/C) | basic | 31 Jul 2026 | 02:57 pm |

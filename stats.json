@@ -1,14 +1,14 @@
 {
-  "totalSolved": 46,
+  "totalSolved": 47,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 2,
-    "basic": 33
+    "basic": 34
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -56,7 +56,8 @@
     "LeetCode_Subarrays_with_K_Different_Integers": true,
     "Codeforces_1903C_-_Theofanis_Nightmare": true,
     "Codeforces_276C_-_Little_Girl_and_Maximum_Sum": true,
-    "LeetCode_Minimum_Window_Substring": true
+    "LeetCode_Minimum_Window_Substring": true,
+    "Codeforces_C_-_The_Delivery_Dilemma": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -74,9 +75,10 @@
     "2026-07-28": 3,
     "2026-07-29": 2,
     "2026-07-30": 4,
-    "2026-07-31": 1
+    "2026-07-31": 2
   },
   "todayProblems": [
-    "Minimum Window Substring"
+    "Minimum Window Substring",
+    "C - The Delivery Dilemma"
   ]
 }
