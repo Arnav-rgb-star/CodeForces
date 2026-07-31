@@ -1,14 +1,14 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 2,
     "medium": 9,
     "hard": 2,
-    "basic": 35
+    "basic": 36
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -58,7 +58,8 @@
     "Codeforces_276C_-_Little_Girl_and_Maximum_Sum": true,
     "LeetCode_Minimum_Window_Substring": true,
     "Codeforces_C_-_The_Delivery_Dilemma": true,
-    "Codeforces_1307C_-_Cow_and_Message": true
+    "Codeforces_1307C_-_Cow_and_Message": true,
+    "Codeforces_550A_-_Two_Substrings": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -76,11 +77,12 @@
     "2026-07-28": 3,
     "2026-07-29": 2,
     "2026-07-30": 4,
-    "2026-07-31": 3
+    "2026-07-31": 4
   },
   "todayProblems": [
     "Minimum Window Substring",
     "C - The Delivery Dilemma",
-    "1307C - Cow and Message"
+    "1307C - Cow and Message",
+    "550A - Two Substrings"
   ]
 }

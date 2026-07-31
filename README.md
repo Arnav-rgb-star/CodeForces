@@ -86,3 +86,4 @@
 | 84 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 31 Jul 2026 | 12:14 pm |
 | 85 | [C - The Delivery Dilemma](./Codeforces/basic/C%20-%20The%20Delivery%20Dilemma) | [Codeforces](https://codeforces.com/contest/1443/problem/C) | basic | 31 Jul 2026 | 02:57 pm |
 | 86 | [1307C - Cow and Message](./Codeforces/basic/1307C%20-%20Cow%20and%20Message) | [Codeforces](https://codeforces.com/problemset/problem/1307/C) | basic | 31 Jul 2026 | 05:30 pm |
+| 87 | [550A - Two Substrings](./Codeforces/basic/550A%20-%20Two%20Substrings) | [Codeforces](https://codeforces.com/problemset/problem/550/A) | basic | 31 Jul 2026 | 05:52 pm |
