@@ -87,3 +87,4 @@
 | 85 | [C - The Delivery Dilemma](./Codeforces/basic/C%20-%20The%20Delivery%20Dilemma) | [Codeforces](https://codeforces.com/contest/1443/problem/C) | basic | 31 Jul 2026 | 02:57 pm |
 | 86 | [1307C - Cow and Message](./Codeforces/basic/1307C%20-%20Cow%20and%20Message) | [Codeforces](https://codeforces.com/problemset/problem/1307/C) | basic | 31 Jul 2026 | 05:30 pm |
 | 87 | [550A - Two Substrings](./Codeforces/basic/550A%20-%20Two%20Substrings) | [Codeforces](https://codeforces.com/problemset/problem/550/A) | basic | 31 Jul 2026 | 05:52 pm |
+| 88 | [Minimum Number of Pushes to Type Word II](./LeetCode/Medium/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | 31 Jul 2026 | 09:50 pm |
