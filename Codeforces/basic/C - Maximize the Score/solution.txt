@@ -1,0 +1,46 @@
+import java.io.*;
+import java.util.*;
+public class maximumScore{
+    static long dp[];
+    static int left[];
+
+    public static long f(int i,int a[]){
+        if(i<0) return 0;
+        if(dp[i]!=-1) return dp[i];
+
+        long notTake= f(i-1,a)+1;
+        long take = 0;
+        int l = left[a[i]];
+        if(l<i){
+            long len = (i-l+1);
+            take = f(l-1,a)+ len*len;
+        }
+
+        return dp[i]=Math.max(take,notTake);
+    }
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            StringTokenizer st = new StringTokenizer(br.readLine());
+
+            int a[]=new int[2*n];
+            left=new int[2*n+1];
+            Arrays.fill(left, -1);
+
+            for(int i=0;i<2*n;i++){
+                a[i] = Integer.parseInt(st.nextToken());
+                if(left[a[i]]== -1) left[a[i]]=i;
+            }
+            dp=new long[2*n+1];
+            Arrays.fill(dp,-1);
+
+            result.append(f(2*n-1,a)).append("\n");
+        }
+ 
+        System.out.println(result);
+    }
+}

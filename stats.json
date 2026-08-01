@@ -1,14 +1,14 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 10,
     "hard": 2,
-    "basic": 37
+    "basic": 38
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -61,7 +61,8 @@
     "Codeforces_1307C_-_Cow_and_Message": true,
     "Codeforces_550A_-_Two_Substrings": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
-    "Codeforces_A_-_You_Delete_I_Delete": true
+    "Codeforces_A_-_You_Delete_I_Delete": true,
+    "Codeforces_C_-_Maximize_the_Score": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -80,9 +81,10 @@
     "2026-07-29": 2,
     "2026-07-30": 4,
     "2026-07-31": 5,
-    "2026-08-01": 1
+    "2026-08-01": 2
   },
   "todayProblems": [
-    "A - You Delete I Delete"
+    "A - You Delete I Delete",
+    "C - Maximize the Score"
   ]
 }
