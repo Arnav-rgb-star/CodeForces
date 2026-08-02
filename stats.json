@@ -1,14 +1,14 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 10,
     "hard": 2,
-    "basic": 39
+    "basic": 40
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -63,7 +63,8 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
     "Codeforces_A_-_You_Delete_I_Delete": true,
     "Codeforces_C_-_Maximize_the_Score": true,
-    "Codeforces_1759D_-_Make_It_Round": true
+    "Codeforces_1759D_-_Make_It_Round": true,
+    "Codeforces_706B_-_Interesting_drink": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -83,9 +84,10 @@
     "2026-07-30": 4,
     "2026-07-31": 5,
     "2026-08-01": 2,
-    "2026-08-02": 1
+    "2026-08-02": 2
   },
   "todayProblems": [
-    "1759D - Make It Round"
+    "1759D - Make It Round",
+    "706B - Interesting drink"
   ]
 }
