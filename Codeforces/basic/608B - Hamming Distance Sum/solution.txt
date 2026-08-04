@@ -1,0 +1,44 @@
+import java.util.*;
+import java.io.*;
+
+public class hameringDistance {
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String a = br.readLine();
+        String b = br.readLine();
+
+        int n = a.length();
+        int m = b.length();
+
+        long sum=0;
+        int freq[]=new int[m];
+
+        int cnt=0;
+
+        for(int i=0;i<m;i++){
+            if(i<n) ++cnt;
+            if(i>(m-n)) --cnt;
+            freq[i] = cnt;
+
+        }
+        long prefix[]=new long[n];
+        prefix[0]= a.charAt(0)-'0';
+
+        for(int i=1;i<n;i++) prefix[i] = prefix[i-1] + (a.charAt(i)-'0');
+
+        for(int i=0;i<=(m-n);i++){
+            int d = (b.charAt(i)-'0');
+            sum+= 1l*Math.abs(freq[i]*d - prefix[freq[i]-1]);
+        }
+
+        long suffix=0;
+        for(int i = m-1;i>m-n; i--) {
+            suffix+= a.charAt(i-(m-n))-'0';
+
+            if (i<n-1) suffix -= a.charAt(i+1)-'0'; 
+            int d = b.charAt(i) - '0';
+            sum+= 1l*Math.abs(freq[i]*d -suffix);
+        }
+        System.out.println(sum);
+    }
+}

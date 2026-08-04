@@ -93,3 +93,4 @@
 | 91 | [1759D - Make It Round](./Codeforces/basic/1759D%20-%20Make%20It%20Round) | [Codeforces](https://codeforces.com/problemset/problem/1759/D) | basic | 02 Aug 2026 | 12:02 pm |
 | 92 | [706B - Interesting drink](./Codeforces/basic/706B%20-%20Interesting%20drink) | [Codeforces](https://codeforces.com/problemset/problem/706/B) | basic | 02 Aug 2026 | 12:33 pm |
 | 93 | [676C - Vasya and String](./Codeforces/basic/676C%20-%20Vasya%20and%20String) | [Codeforces](https://codeforces.com/problemset/problem/676/C) | basic | 03 Aug 2026 | 12:48 pm |
+| 94 | [608B - Hamming Distance Sum](./Codeforces/basic/608B%20-%20Hamming%20Distance%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/608/B) | basic | 04 Aug 2026 | 12:56 pm |
