@@ -94,3 +94,4 @@
 | 92 | [706B - Interesting drink](./Codeforces/basic/706B%20-%20Interesting%20drink) | [Codeforces](https://codeforces.com/problemset/problem/706/B) | basic | 02 Aug 2026 | 12:33 pm |
 | 93 | [676C - Vasya and String](./Codeforces/basic/676C%20-%20Vasya%20and%20String) | [Codeforces](https://codeforces.com/problemset/problem/676/C) | basic | 03 Aug 2026 | 12:48 pm |
 | 94 | [608B - Hamming Distance Sum](./Codeforces/basic/608B%20-%20Hamming%20Distance%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/608/B) | basic | 04 Aug 2026 | 12:56 pm |
+| 95 | [2010C1 - Message Transmission Error easy version](./Codeforces/basic/2010C1%20-%20Message%20Transmission%20Error%20easy%20version) | [Codeforces](https://codeforces.com/problemset/problem/2010/C1) | basic | 05 Aug 2026 | 01:16 pm |
