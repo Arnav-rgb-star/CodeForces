@@ -96,3 +96,4 @@
 | 94 | [608B - Hamming Distance Sum](./Codeforces/basic/608B%20-%20Hamming%20Distance%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/608/B) | basic | 04 Aug 2026 | 12:56 pm |
 | 95 | [2010C1 - Message Transmission Error easy version](./Codeforces/basic/2010C1%20-%20Message%20Transmission%20Error%20easy%20version) | [Codeforces](https://codeforces.com/problemset/problem/2010/C1) | basic | 05 Aug 2026 | 01:16 pm |
 | 96 | [1891C - Smilo and Monsters](./Codeforces/basic/1891C%20-%20Smilo%20and%20Monsters) | [Codeforces](https://codeforces.com/problemset/problem/1891/C) | basic | 06 Aug 2026 | 02:21 pm |
+| 97 | [2252A - Boss Fight](./Codeforces/basic/2252A%20-%20Boss%20Fight) | [Codeforces](https://codeforces.com/problemset/problem/2252/A) | basic | 06 Aug 2026 | 10:41 pm |

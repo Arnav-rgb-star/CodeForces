@@ -1,0 +1,42 @@
+import java.io.*;
+import java.util.*;
+public class bossFight{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int a[]=new int[n];
+
+            int sum=0;
+            HashMap<Integer,Integer> map = new HashMap<>();
+            int max=0;
+            for(int i=0;i<n;i++){
+                a[i]=Integer.parseInt(st.nextToken());
+                sum+=a[i];
+                map.put(a[i],map.getOrDefault(a[i],0)+1);
+            }
+            int power=0;
+            for(Map.Entry<Integer,Integer> entry : map.entrySet()){
+                int value = entry.getValue();
+
+                if(value > max){
+                    max=value;
+                    power=entry.getKey();
+                }
+            }
+            int divider = n-max+1;
+            int all = divider+1;
+            int extra = max-all;
+
+            if(extra<0) extra=0;
+            sum-= extra*power;
+            result.append(sum).append("\n");
+        }
+ 
+        System.out.println(result);
+    }
+}
