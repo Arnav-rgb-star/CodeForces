@@ -1,0 +1,45 @@
+import java.io.*;
+import java.util.*;
+public class smiloAndMonster{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            StringTokenizer st = new StringTokenizer(br.readLine());
+
+            int a[]=new int[n];
+            int x=0;
+
+            for(int i=0;i<n;i++) a[i]=Integer.parseInt(st.nextToken());
+            Arrays.sort(a);
+
+            int i=0;
+            int j=n-1;
+
+            long attack=0;
+            while(i<j){
+                if(a[i]+x> a[j] && a[j]>=x){
+                    a[j]-=x;
+                    a[i]-=a[j];
+                    x=0;
+                    attack+= 1l+a[j];
+                    --j;
+                }else{
+                    attack+= 1l*a[i];
+                    x+= 1l*a[i];
+                    ++i;
+                }
+            }
+            if(i==j){
+                if(a[i]==1 && x==0) attack++;
+                else attack+=(a[i]-x+1)/2+1;
+            }
+            result.append(attack).append("\n");
+        }
+ 
+        System.out.println(result);
+    }
+}

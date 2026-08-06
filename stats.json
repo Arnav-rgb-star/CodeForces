@@ -1,14 +1,14 @@
 {
-  "totalSolved": 57,
-  "currentStreak": 18,
-  "maxStreak": 18,
-  "lastSyncDate": "2026-08-05",
+  "totalSolved": 58,
+  "currentStreak": 19,
+  "maxStreak": 19,
+  "lastSyncDate": "2026-08-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 10,
     "hard": 2,
-    "basic": 43
+    "basic": 44
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -67,7 +67,8 @@
     "Codeforces_706B_-_Interesting_drink": true,
     "Codeforces_676C_-_Vasya_and_String": true,
     "Codeforces_608B_-_Hamming_Distance_Sum": true,
-    "Codeforces_2010C1_-_Message_Transmission_Error_easy_version": true
+    "Codeforces_2010C1_-_Message_Transmission_Error_easy_version": true,
+    "Codeforces_1891C_-_Smilo_and_Monsters": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -90,9 +91,10 @@
     "2026-08-02": 2,
     "2026-08-03": 1,
     "2026-08-04": 1,
-    "2026-08-05": 1
+    "2026-08-05": 1,
+    "2026-08-06": 1
   },
   "todayProblems": [
-    "2010C1 - Message Transmission Error easy version"
+    "1891C - Smilo and Monsters"
   ]
 }
