@@ -1,14 +1,14 @@
 {
-  "totalSolved": 59,
-  "currentStreak": 19,
+  "totalSolved": 60,
+  "currentStreak": 1,
   "maxStreak": 19,
-  "lastSyncDate": "2026-08-06",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-08",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 10,
     "hard": 2,
-    "basic": 45
+    "basic": 46
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -69,7 +69,8 @@
     "Codeforces_608B_-_Hamming_Distance_Sum": true,
     "Codeforces_2010C1_-_Message_Transmission_Error_easy_version": true,
     "Codeforces_1891C_-_Smilo_and_Monsters": true,
-    "Codeforces_2252A_-_Boss_Fight": true
+    "Codeforces_2252A_-_Boss_Fight": true,
+    "Codeforces_C_-_Risky_Tower": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -93,10 +94,10 @@
     "2026-08-03": 1,
     "2026-08-04": 1,
     "2026-08-05": 1,
-    "2026-08-06": 2
+    "2026-08-06": 2,
+    "2026-08-08": 1
   },
   "todayProblems": [
-    "1891C - Smilo and Monsters",
-    "2252A - Boss Fight"
+    "C - Risky Tower"
   ]
 }
