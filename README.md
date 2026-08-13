@@ -100,3 +100,4 @@
 | 98 | [C - Risky Tower](./Codeforces/basic/C%20-%20Risky%20Tower) | [Codeforces](https://codeforces.com/contest/2252/problem/C) | basic | 08 Aug 2026 | 02:19 pm |
 | 99 | [Stone Game III](./LeetCode/Hard/Stone%20Game%20III) | [LeetCode](https://leetcode.com/problems/stone-game-iii/) | Hard | 13 Aug 2026 | 10:07 am |
 | 100 | [Binary Tree Postorder Traversal](./LeetCode/Easy/Binary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | 13 Aug 2026 | 04:58 pm |
+| 101 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 13 Aug 2026 | 09:30 pm |
