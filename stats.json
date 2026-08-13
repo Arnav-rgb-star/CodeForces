@@ -1,13 +1,13 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 1,
   "maxStreak": 19,
-  "lastSyncDate": "2026-08-08",
+  "lastSyncDate": "2026-08-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 10,
-    "hard": 2,
+    "hard": 3,
     "basic": 46
   },
   "syncedProblems": {
@@ -70,7 +70,8 @@
     "Codeforces_2010C1_-_Message_Transmission_Error_easy_version": true,
     "Codeforces_1891C_-_Smilo_and_Monsters": true,
     "Codeforces_2252A_-_Boss_Fight": true,
-    "Codeforces_C_-_Risky_Tower": true
+    "Codeforces_C_-_Risky_Tower": true,
+    "LeetCode_Stone_Game_III": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -95,9 +96,10 @@
     "2026-08-04": 1,
     "2026-08-05": 1,
     "2026-08-06": 2,
-    "2026-08-08": 1
+    "2026-08-08": 1,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "C - Risky Tower"
+    "Stone Game III"
   ]
 }
