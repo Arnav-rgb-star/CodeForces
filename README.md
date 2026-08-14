@@ -106,3 +106,4 @@
 | 104 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 14 Aug 2026 | 07:03 pm |
 | 105 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 14 Aug 2026 | 07:42 pm |
 | 106 | [Binary Tree Maximum Path Sum](./LeetCode/Hard/Binary%20Tree%20Maximum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | 14 Aug 2026 | 07:54 pm |
+| 107 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 15 Aug 2026 | 12:51 am |
