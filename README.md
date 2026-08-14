@@ -103,3 +103,4 @@
 | 101 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 13 Aug 2026 | 09:30 pm |
 | 102 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 13 Aug 2026 | 09:56 pm |
 | 103 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 13 Aug 2026 | 10:10 pm |
+| 104 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 14 Aug 2026 | 07:03 pm |
