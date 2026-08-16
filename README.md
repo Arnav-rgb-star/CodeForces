@@ -113,3 +113,4 @@
 | 111 | [Bottom View of Binary Tree](./GeeksForGeeks/Medium/Bottom%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | Medium | 16 Aug 2026 | 02:38 pm |
 | 112 | [Binary Tree Right Side View](./LeetCode/Medium/Binary%20Tree%20Right%20Side%20View) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 16 Aug 2026 | 03:12 pm |
 | 113 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 16 Aug 2026 | 04:53 pm |
+| 114 | [Root to Leaf Paths](./GeeksForGeeks/Medium/Root%20to%20Leaf%20Paths) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) | Medium | 17 Aug 2026 | 01:13 am |
