@@ -1,12 +1,12 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 5,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 16,
+    "medium": 17,
     "hard": 5,
     "basic": 46
   },
@@ -87,7 +87,8 @@
     "LeetCode_Binary_Tree_Right_Side_View": true,
     "LeetCode_Symmetric_Tree": true,
     "GeeksForGeeks_Root_to_Leaf_Paths": true,
-    "LeetCode_Binary_Tree_Paths": true
+    "LeetCode_Binary_Tree_Paths": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -117,10 +118,11 @@
     "2026-08-14": 3,
     "2026-08-15": 2,
     "2026-08-16": 5,
-    "2026-08-17": 2
+    "2026-08-17": 3
   },
   "todayProblems": [
     "Root to Leaf Paths",
-    "Binary Tree Paths"
+    "Binary Tree Paths",
+    "Lowest Common Ancestor of a Binary Tree"
   ]
 }
