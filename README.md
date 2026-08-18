@@ -116,3 +116,4 @@
 | 114 | [Root to Leaf Paths](./GeeksForGeeks/Medium/Root%20to%20Leaf%20Paths) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) | Medium | 17 Aug 2026 | 01:13 am |
 | 115 | [Binary Tree Paths](./LeetCode/Easy/Binary%20Tree%20Paths) | [LeetCode](https://leetcode.com/problems/binary-tree-paths/) | Easy | 17 Aug 2026 | 01:20 am |
 | 116 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 17 Aug 2026 | 02:31 pm |
+| 117 | [Maximum Width of Binary Tree](./LeetCode/Medium/Maximum%20Width%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | 18 Aug 2026 | 02:06 pm |
