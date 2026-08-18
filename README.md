@@ -118,3 +118,4 @@
 | 116 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 17 Aug 2026 | 02:31 pm |
 | 117 | [Maximum Width of Binary Tree](./LeetCode/Medium/Maximum%20Width%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | 18 Aug 2026 | 02:06 pm |
 | 118 | [Children Sum in a Binary Tree](./GeeksForGeeks/Medium/Children%20Sum%20in%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | Medium | 18 Aug 2026 | 02:31 pm |
+| 119 | [Root Equals Sum of Children](./LeetCode/Easy/Root%20Equals%20Sum%20of%20Children) | [LeetCode](https://leetcode.com/problems/root-equals-sum-of-children/) | Easy | 18 Aug 2026 | 02:53 pm |
