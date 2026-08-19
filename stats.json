@@ -1,12 +1,12 @@
 {
-  "totalSolved": 86,
+  "totalSolved": 87,
   "currentStreak": 7,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 23,
+    "medium": 24,
     "hard": 6,
     "basic": 46
   },
@@ -96,7 +96,8 @@
     "LeetCode_All_Nodes_Distance_K_in_Binary_Tree": true,
     "GeeksForGeeks_Burning_Tree": true,
     "LeetCode_Jump_Game_II": true,
-    "LeetCode_Count_Complete_Tree_Nodes": true
+    "LeetCode_Count_Complete_Tree_Nodes": true,
+    "LeetCode_Removing_Stars_From_a_String": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -128,13 +129,14 @@
     "2026-08-16": 5,
     "2026-08-17": 3,
     "2026-08-18": 3,
-    "2026-08-19": 5
+    "2026-08-19": 6
   },
   "todayProblems": [
     "Amount of Time for Binary Tree to Be Infected",
     "All Nodes Distance K in Binary Tree",
     "Burning Tree",
     "Jump Game II",
-    "Count Complete Tree Nodes"
+    "Count Complete Tree Nodes",
+    "Removing Stars From a String"
   ]
 }

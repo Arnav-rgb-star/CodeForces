@@ -124,3 +124,4 @@
 | 122 | [Burning Tree](./GeeksForGeeks/Hard/Burning%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/burning-tree/1) | Hard | 19 Aug 2026 | 11:20 am |
 | 123 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 19 Aug 2026 | 04:40 pm |
 | 124 | [Count Complete Tree Nodes](./LeetCode/Medium/Count%20Complete%20Tree%20Nodes) | [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | 19 Aug 2026 | 04:59 pm |
+| 125 | [Removing Stars From a String](./LeetCode/Medium/Removing%20Stars%20From%20a%20String) | [LeetCode](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | 19 Aug 2026 | 07:27 pm |
