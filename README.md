@@ -121,3 +121,4 @@
 | 119 | [Root Equals Sum of Children](./LeetCode/Easy/Root%20Equals%20Sum%20of%20Children) | [LeetCode](https://leetcode.com/problems/root-equals-sum-of-children/) | Easy | 18 Aug 2026 | 02:53 pm |
 | 120 | [Amount of Time for Binary Tree to Be Infected](./LeetCode/Medium/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected) | [LeetCode](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | 19 Aug 2026 | 11:02 am |
 | 121 | [All Nodes Distance K in Binary Tree](./LeetCode/Medium/All%20Nodes%20Distance%20K%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | 19 Aug 2026 | 11:11 am |
+| 122 | [Burning Tree](./GeeksForGeeks/Hard/Burning%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/burning-tree/1) | Hard | 19 Aug 2026 | 11:20 am |

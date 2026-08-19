@@ -1,13 +1,13 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 7,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 11,
     "medium": 21,
-    "hard": 5,
+    "hard": 6,
     "basic": 46
   },
   "syncedProblems": {
@@ -93,7 +93,8 @@
     "GeeksForGeeks_Children_Sum_in_a_Binary_Tree": true,
     "LeetCode_Root_Equals_Sum_of_Children": true,
     "LeetCode_Amount_of_Time_for_Binary_Tree_to_Be_Infected": true,
-    "LeetCode_All_Nodes_Distance_K_in_Binary_Tree": true
+    "LeetCode_All_Nodes_Distance_K_in_Binary_Tree": true,
+    "GeeksForGeeks_Burning_Tree": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -125,10 +126,11 @@
     "2026-08-16": 5,
     "2026-08-17": 3,
     "2026-08-18": 3,
-    "2026-08-19": 2
+    "2026-08-19": 3
   },
   "todayProblems": [
     "Amount of Time for Binary Tree to Be Infected",
-    "All Nodes Distance K in Binary Tree"
+    "All Nodes Distance K in Binary Tree",
+    "Burning Tree"
   ]
 }
