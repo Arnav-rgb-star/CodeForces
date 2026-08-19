@@ -1,12 +1,12 @@
 {
-  "totalSolved": 81,
-  "currentStreak": 6,
+  "totalSolved": 82,
+  "currentStreak": 7,
   "maxStreak": 19,
-  "lastSyncDate": "2026-08-18",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 19,
+    "medium": 20,
     "hard": 5,
     "basic": 46
   },
@@ -91,7 +91,8 @@
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
     "LeetCode_Maximum_Width_of_Binary_Tree": true,
     "GeeksForGeeks_Children_Sum_in_a_Binary_Tree": true,
-    "LeetCode_Root_Equals_Sum_of_Children": true
+    "LeetCode_Root_Equals_Sum_of_Children": true,
+    "LeetCode_Amount_of_Time_for_Binary_Tree_to_Be_Infected": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -122,11 +123,10 @@
     "2026-08-15": 2,
     "2026-08-16": 5,
     "2026-08-17": 3,
-    "2026-08-18": 3
+    "2026-08-18": 3,
+    "2026-08-19": 1
   },
   "todayProblems": [
-    "Maximum Width of Binary Tree",
-    "Children Sum in a Binary Tree",
-    "Root Equals Sum of Children"
+    "Amount of Time for Binary Tree to Be Infected"
   ]
 }
