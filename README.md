@@ -123,3 +123,4 @@
 | 121 | [All Nodes Distance K in Binary Tree](./LeetCode/Medium/All%20Nodes%20Distance%20K%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | 19 Aug 2026 | 11:11 am |
 | 122 | [Burning Tree](./GeeksForGeeks/Hard/Burning%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/burning-tree/1) | Hard | 19 Aug 2026 | 11:20 am |
 | 123 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 19 Aug 2026 | 04:40 pm |
+| 124 | [Count Complete Tree Nodes](./LeetCode/Medium/Count%20Complete%20Tree%20Nodes) | [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | 19 Aug 2026 | 04:59 pm |
