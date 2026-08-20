@@ -128,3 +128,4 @@
 | 126 | [Job Sequencing Problem](./GeeksForGeeks/Medium/Job%20Sequencing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Medium | 20 Aug 2026 | 07:32 pm |
 | 127 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 20 Aug 2026 | 08:01 pm |
 | 128 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 20 Aug 2026 | 09:57 pm |
+| 129 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 20 Aug 2026 | 10:19 pm |
