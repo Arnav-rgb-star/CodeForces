@@ -126,3 +126,4 @@
 | 124 | [Count Complete Tree Nodes](./LeetCode/Medium/Count%20Complete%20Tree%20Nodes) | [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | 19 Aug 2026 | 04:59 pm |
 | 125 | [Removing Stars From a String](./LeetCode/Medium/Removing%20Stars%20From%20a%20String) | [LeetCode](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | 19 Aug 2026 | 07:27 pm |
 | 126 | [Job Sequencing Problem](./GeeksForGeeks/Medium/Job%20Sequencing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Medium | 20 Aug 2026 | 07:32 pm |
+| 127 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 20 Aug 2026 | 08:01 pm |
