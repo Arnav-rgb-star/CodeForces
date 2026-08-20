@@ -1,12 +1,12 @@
 {
-  "totalSolved": 89,
+  "totalSolved": 90,
   "currentStreak": 8,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 26,
+    "medium": 27,
     "hard": 6,
     "basic": 46
   },
@@ -99,7 +99,8 @@
     "LeetCode_Count_Complete_Tree_Nodes": true,
     "LeetCode_Removing_Stars_From_a_String": true,
     "GeeksForGeeks_Job_Sequencing_Problem": true,
-    "LeetCode_Merge_Intervals": true
+    "LeetCode_Merge_Intervals": true,
+    "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -132,10 +133,11 @@
     "2026-08-17": 3,
     "2026-08-18": 3,
     "2026-08-19": 6,
-    "2026-08-20": 2
+    "2026-08-20": 3
   },
   "todayProblems": [
     "Job Sequencing Problem",
-    "Merge Intervals"
+    "Merge Intervals",
+    "Longest Subsequence With Non-Zero Bitwise XOR"
   ]
 }
