@@ -131,3 +131,4 @@
 | 129 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 20 Aug 2026 | 10:19 pm |
 | 130 | [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) | [LeetCode](https://leetcode.com/problems/reverse-pairs/) | Hard | 21 Aug 2026 | 06:41 pm |
 | 131 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 21 Aug 2026 | 07:01 pm |
+| 132 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 21 Aug 2026 | 07:17 pm |

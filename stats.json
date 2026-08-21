@@ -1,11 +1,11 @@
 {
-  "totalSolved": 93,
+  "totalSolved": 94,
   "currentStreak": 9,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 11,
+    "easy": 12,
     "medium": 29,
     "hard": 7,
     "basic": 46
@@ -103,7 +103,8 @@
     "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true,
     "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true,
     "LeetCode_Reverse_Pairs": true,
-    "GeeksForGeeks_Count_Inversions": true
+    "GeeksForGeeks_Count_Inversions": true,
+    "LeetCode_Merge_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -137,10 +138,11 @@
     "2026-08-18": 3,
     "2026-08-19": 6,
     "2026-08-20": 4,
-    "2026-08-21": 2
+    "2026-08-21": 3
   },
   "todayProblems": [
     "Reverse Pairs",
-    "Count Inversions"
+    "Count Inversions",
+    "Merge Sorted Array"
   ]
 }
