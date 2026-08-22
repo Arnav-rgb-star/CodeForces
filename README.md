@@ -132,3 +132,4 @@
 | 130 | [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) | [LeetCode](https://leetcode.com/problems/reverse-pairs/) | Hard | 21 Aug 2026 | 06:41 pm |
 | 131 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 21 Aug 2026 | 07:01 pm |
 | 132 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 21 Aug 2026 | 07:17 pm |
+| 133 | [Path Sum III](./LeetCode/Medium/Path%20Sum%20III) | [LeetCode](https://leetcode.com/problems/path-sum-iii/) | Medium | 22 Aug 2026 | 03:06 pm |

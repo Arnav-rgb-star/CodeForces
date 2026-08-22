@@ -1,12 +1,12 @@
 {
-  "totalSolved": 94,
-  "currentStreak": 9,
+  "totalSolved": 95,
+  "currentStreak": 10,
   "maxStreak": 19,
-  "lastSyncDate": "2026-08-21",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-22",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 29,
+    "medium": 30,
     "hard": 7,
     "basic": 46
   },
@@ -104,7 +104,8 @@
     "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true,
     "LeetCode_Reverse_Pairs": true,
     "GeeksForGeeks_Count_Inversions": true,
-    "LeetCode_Merge_Sorted_Array": true
+    "LeetCode_Merge_Sorted_Array": true,
+    "LeetCode_Path_Sum_III": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -138,11 +139,10 @@
     "2026-08-18": 3,
     "2026-08-19": 6,
     "2026-08-20": 4,
-    "2026-08-21": 3
+    "2026-08-21": 3,
+    "2026-08-22": 1
   },
   "todayProblems": [
-    "Reverse Pairs",
-    "Count Inversions",
-    "Merge Sorted Array"
+    "Path Sum III"
   ]
 }
