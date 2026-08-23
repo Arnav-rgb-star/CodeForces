@@ -1,12 +1,12 @@
 {
-  "totalSolved": 97,
+  "totalSolved": 98,
   "currentStreak": 11,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 30,
+    "medium": 31,
     "hard": 8,
     "basic": 46
   },
@@ -107,7 +107,8 @@
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Path_Sum_III": true,
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
-    "LeetCode_Serialize_and_Deserialize_Binary_Tree": true
+    "LeetCode_Serialize_and_Deserialize_Binary_Tree": true,
+    "LeetCode_Even_Odd_Tree": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -143,9 +144,10 @@
     "2026-08-20": 4,
     "2026-08-21": 3,
     "2026-08-22": 2,
-    "2026-08-23": 1
+    "2026-08-23": 2
   },
   "todayProblems": [
-    "Serialize and Deserialize Binary Tree"
+    "Serialize and Deserialize Binary Tree",
+    "Even Odd Tree"
   ]
 }
