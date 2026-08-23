@@ -134,3 +134,4 @@
 | 132 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 21 Aug 2026 | 07:17 pm |
 | 133 | [Path Sum III](./LeetCode/Medium/Path%20Sum%20III) | [LeetCode](https://leetcode.com/problems/path-sum-iii/) | Medium | 22 Aug 2026 | 03:06 pm |
 | 134 | [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | [LeetCode](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | 22 Aug 2026 | 03:14 pm |
+| 135 | [Serialize and Deserialize Binary Tree](./LeetCode/Hard/Serialize%20and%20Deserialize%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | 23 Aug 2026 | 02:07 pm |
