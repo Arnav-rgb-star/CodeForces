@@ -138,3 +138,4 @@
 | 136 | [Even Odd Tree](./LeetCode/Medium/Even%20Odd%20Tree) | [LeetCode](https://leetcode.com/problems/even-odd-tree/) | Medium | 23 Aug 2026 | 02:36 pm |
 | 137 | [Pseudo-Palindromic Paths in a Binary Tree](./LeetCode/Medium/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | 24 Aug 2026 | 12:59 am |
 | 138 | [Sum Game](./LeetCode/Medium/Sum%20Game) | [LeetCode](https://leetcode.com/problems/sum-game/) | Medium | 24 Aug 2026 | 01:52 am |
+| 139 | [Stone Game VIII](./LeetCode/Hard/Stone%20Game%20VIII) | [LeetCode](https://leetcode.com/problems/stone-game-viii/) | Hard | 24 Aug 2026 | 01:53 pm |
