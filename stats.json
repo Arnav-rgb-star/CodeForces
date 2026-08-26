@@ -1,12 +1,12 @@
 {
-  "totalSolved": 104,
+  "totalSolved": 105,
   "currentStreak": 1,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 36,
+    "medium": 37,
     "hard": 9,
     "basic": 46
   },
@@ -114,7 +114,8 @@
     "LeetCode_Stone_Game_VIII": true,
     "LeetCode_Find_All_Numbers_Disappeared_in_an_Array_II": true,
     "LeetCode_Maximum_Gap_Between_Stations": true,
-    "LeetCode_Maximum_Product_of_Splitted_Binary_Tree": true
+    "LeetCode_Maximum_Product_of_Splitted_Binary_Tree": true,
+    "LeetCode_Minimum_Number_of_Operations_to_Sort_a_Binary_Tree_by_Level": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -152,10 +153,11 @@
     "2026-08-22": 2,
     "2026-08-23": 2,
     "2026-08-24": 4,
-    "2026-08-26": 2
+    "2026-08-26": 3
   },
   "todayProblems": [
     "Maximum Gap Between Stations",
-    "Maximum Product of Splitted Binary Tree"
+    "Maximum Product of Splitted Binary Tree",
+    "Minimum Number of Operations to Sort a Binary Tree by Level"
   ]
 }
