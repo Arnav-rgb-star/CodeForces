@@ -141,3 +141,4 @@
 | 139 | [Stone Game VIII](./LeetCode/Hard/Stone%20Game%20VIII) | [LeetCode](https://leetcode.com/problems/stone-game-viii/) | Hard | 24 Aug 2026 | 01:53 pm |
 | 140 | [Find All Numbers Disappeared in an Array II](./LeetCode/Medium/Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | Medium | 24 Aug 2026 | 02:54 pm |
 | 141 | [Maximum Gap Between Stations](./LeetCode/Medium/Maximum%20Gap%20Between%20Stations) | [LeetCode](https://leetcode.com/problems/maximum-gap-between-stations/) | Medium | 26 Aug 2026 | 11:51 am |
+| 142 | [Maximum Product of Splitted Binary Tree](./LeetCode/Medium/Maximum%20Product%20of%20Splitted%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium | 26 Aug 2026 | 03:27 pm |
