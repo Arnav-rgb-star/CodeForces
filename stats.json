@@ -1,12 +1,12 @@
 {
-  "totalSolved": 108,
+  "totalSolved": 109,
   "currentStreak": 1,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 39,
+    "medium": 40,
     "hard": 9,
     "basic": 47
   },
@@ -118,7 +118,8 @@
     "LeetCode_Minimum_Number_of_Operations_to_Sort_a_Binary_Tree_by_Level": true,
     "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true,
     "LeetCode_Flatten_Binary_Tree_to_Linked_List": true,
-    "Codeforces_1598C_-_Delete_Two_Elements": true
+    "Codeforces_1598C_-_Delete_Two_Elements": true,
+    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -157,10 +158,11 @@
     "2026-08-23": 2,
     "2026-08-24": 4,
     "2026-08-26": 4,
-    "2026-08-31": 2
+    "2026-08-31": 3
   },
   "todayProblems": [
     "Flatten Binary Tree to Linked List",
-    "1598C - Delete Two Elements"
+    "1598C - Delete Two Elements",
+    "Removing Minimum and Maximum From Array"
   ]
 }
