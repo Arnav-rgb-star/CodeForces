@@ -1,12 +1,12 @@
 {
-  "totalSolved": 112,
+  "totalSolved": 113,
   "currentStreak": 2,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 42,
+    "medium": 43,
     "hard": 9,
     "basic": 48
   },
@@ -122,7 +122,8 @@
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "LeetCode_Stone_Game": true,
     "Codeforces_474B_-_Worms": true,
-    "LeetCode_Kth_Smallest_Element_in_a_BST": true
+    "LeetCode_Kth_Smallest_Element_in_a_BST": true,
+    "LeetCode_Insert_into_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -162,9 +163,10 @@
     "2026-08-24": 4,
     "2026-08-26": 4,
     "2026-08-31": 5,
-    "2026-09-01": 1
+    "2026-09-01": 2
   },
   "todayProblems": [
-    "Kth Smallest Element in a BST"
+    "Kth Smallest Element in a BST",
+    "Insert into a Binary Search Tree"
   ]
 }
