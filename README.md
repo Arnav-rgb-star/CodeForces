@@ -149,3 +149,4 @@
 | 147 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 31 Aug 2026 | 02:32 pm |
 | 148 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 31 Aug 2026 | 02:36 pm |
 | 149 | [474B - Worms](./Codeforces/basic/474B%20-%20Worms) | [Codeforces](https://codeforces.com/problemset/problem/474/B) | basic | 31 Aug 2026 | 07:50 pm |
+| 150 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 01 Sept 2026 | 04:58 pm |

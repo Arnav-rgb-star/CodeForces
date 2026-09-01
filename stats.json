@@ -1,12 +1,12 @@
 {
-  "totalSolved": 111,
-  "currentStreak": 1,
+  "totalSolved": 112,
+  "currentStreak": 2,
   "maxStreak": 19,
-  "lastSyncDate": "2026-08-31",
-  "todayCount": 5,
+  "lastSyncDate": "2026-09-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 41,
+    "medium": 42,
     "hard": 9,
     "basic": 48
   },
@@ -121,7 +121,8 @@
     "Codeforces_1598C_-_Delete_Two_Elements": true,
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "LeetCode_Stone_Game": true,
-    "Codeforces_474B_-_Worms": true
+    "Codeforces_474B_-_Worms": true,
+    "LeetCode_Kth_Smallest_Element_in_a_BST": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -160,13 +161,10 @@
     "2026-08-23": 2,
     "2026-08-24": 4,
     "2026-08-26": 4,
-    "2026-08-31": 5
+    "2026-08-31": 5,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Flatten Binary Tree to Linked List",
-    "1598C - Delete Two Elements",
-    "Removing Minimum and Maximum From Array",
-    "Stone Game",
-    "474B - Worms"
+    "Kth Smallest Element in a BST"
   ]
 }
