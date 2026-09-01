@@ -152,3 +152,4 @@
 | 150 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 01 Sept 2026 | 04:58 pm |
 | 151 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 01 Sept 2026 | 05:13 pm |
 | 152 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 01 Sept 2026 | 06:35 pm |
+| 153 | [550B - Preparing Olympiad](./Codeforces/basic/550B%20-%20Preparing%20Olympiad) | [Codeforces](https://codeforces.com/problemset/problem/550/B) | basic | 02 Sept 2026 | 01:57 am |

@@ -1,0 +1,41 @@
+import java.util.*;
+import java.io.*;
+
+public class preparingOlympiads {
+    static long cnt;
+    static long l;
+    static long r;
+    static long x;
+
+    static void f(int i,long min,long max,long sum,long a[]){
+        if(i==a.length){
+            if((max-min)>=x && sum<=r && sum>=l) ++cnt;
+            return;
+        }
+        
+        f(i+1,Math.min(min,a[i]),Math.max(max,a[i]),sum+a[i],a);
+        f(i+1,min,max,sum,a);
+
+        return;
+    }
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int n = Integer.parseInt(st.nextToken());
+        l= Long.parseLong(st.nextToken());
+        r = Long.parseLong(st.nextToken());
+
+        x = Long.parseLong(st.nextToken());
+
+        st = new StringTokenizer(br.readLine());
+        long a[] = new long[n];
+
+        for(int i=0;i<n;i++) a[i]=Long.parseLong(st.nextToken());
+        cnt=0;
+
+        f(0,Long.MAX_VALUE,0,0,a);
+        System.out.println(cnt);
+
+    }
+}
