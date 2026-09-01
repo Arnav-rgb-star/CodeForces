@@ -1,12 +1,12 @@
 {
-  "totalSolved": 115,
+  "totalSolved": 116,
   "currentStreak": 3,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 44,
+    "medium": 45,
     "hard": 9,
     "basic": 49
   },
@@ -125,7 +125,8 @@
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
     "LeetCode_Insert_into_a_Binary_Search_Tree": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
-    "Codeforces_550B_-_Preparing_Olympiad": true
+    "Codeforces_550B_-_Preparing_Olympiad": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -166,9 +167,10 @@
     "2026-08-26": 4,
     "2026-08-31": 5,
     "2026-09-01": 3,
-    "2026-09-02": 1
+    "2026-09-02": 2
   },
   "todayProblems": [
-    "550B - Preparing Olympiad"
+    "550B - Preparing Olympiad",
+    "Lowest Common Ancestor of a Binary Search Tree"
   ]
 }
