@@ -1,12 +1,12 @@
 {
-  "totalSolved": 117,
+  "totalSolved": 118,
   "currentStreak": 3,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 45,
+    "medium": 46,
     "hard": 9,
     "basic": 49
   },
@@ -127,7 +127,8 @@
     "LeetCode_Validate_Binary_Search_Tree": true,
     "Codeforces_550B_-_Preparing_Olympiad": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
-    "LeetCode_Construct_Uniform_Parity_Array_I": true
+    "LeetCode_Construct_Uniform_Parity_Array_I": true,
+    "LeetCode_Delete_Node_in_a_BST": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -168,11 +169,12 @@
     "2026-08-26": 4,
     "2026-08-31": 5,
     "2026-09-01": 3,
-    "2026-09-02": 3
+    "2026-09-02": 4
   },
   "todayProblems": [
     "550B - Preparing Olympiad",
     "Lowest Common Ancestor of a Binary Search Tree",
-    "Construct Uniform Parity Array I"
+    "Construct Uniform Parity Array I",
+    "Delete Node in a BST"
   ]
 }
