@@ -154,3 +154,4 @@
 | 152 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 01 Sept 2026 | 06:35 pm |
 | 153 | [550B - Preparing Olympiad](./Codeforces/basic/550B%20-%20Preparing%20Olympiad) | [Codeforces](https://codeforces.com/problemset/problem/550/B) | basic | 02 Sept 2026 | 01:57 am |
 | 154 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 02 Sept 2026 | 02:15 am |
+| 155 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 12:56 pm |
