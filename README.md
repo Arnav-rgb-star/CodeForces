@@ -156,3 +156,4 @@
 | 154 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 02 Sept 2026 | 02:15 am |
 | 155 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 12:56 pm |
 | 156 | [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | 02 Sept 2026 | 06:07 pm |
+| 157 | [Construct Binary Search Tree from Preorder Traversal](./LeetCode/Medium/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | 02 Sept 2026 | 07:49 pm |
