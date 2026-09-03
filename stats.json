@@ -1,12 +1,12 @@
 {
-  "totalSolved": 121,
+  "totalSolved": 122,
   "currentStreak": 4,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 48,
+    "medium": 49,
     "hard": 9,
     "basic": 50
   },
@@ -131,7 +131,8 @@
     "LeetCode_Delete_Node_in_a_BST": true,
     "LeetCode_Construct_Binary_Search_Tree_from_Preorder_Traversal": true,
     "GeeksForGeeks_Predecessor_and_Successor_in_BST": true,
-    "Codeforces_1988C_-_Increasing_Sequence_with_Fixed_OR": true
+    "Codeforces_1988C_-_Increasing_Sequence_with_Fixed_OR": true,
+    "LeetCode_Construct_Uniform_Parity_Array_II": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -173,9 +174,10 @@
     "2026-08-31": 5,
     "2026-09-01": 3,
     "2026-09-02": 6,
-    "2026-09-03": 1
+    "2026-09-03": 2
   },
   "todayProblems": [
-    "1988C - Increasing Sequence with Fixed OR"
+    "1988C - Increasing Sequence with Fixed OR",
+    "Construct Uniform Parity Array II"
   ]
 }

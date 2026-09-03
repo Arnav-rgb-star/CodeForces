@@ -159,3 +159,4 @@
 | 157 | [Construct Binary Search Tree from Preorder Traversal](./LeetCode/Medium/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | 02 Sept 2026 | 07:49 pm |
 | 158 | [Predecessor and Successor in BST](./GeeksForGeeks/Medium/Predecessor%20and%20Successor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | Medium | 02 Sept 2026 | 10:13 pm |
 | 159 | [1988C - Increasing Sequence with Fixed OR](./Codeforces/basic/1988C%20-%20Increasing%20Sequence%20with%20Fixed%20OR) | [Codeforces](https://codeforces.com/problemset/problem/1988/C) | basic | 03 Sept 2026 | 03:53 pm |
+| 160 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 04:29 pm |
