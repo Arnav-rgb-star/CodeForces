@@ -1,0 +1,31 @@
+import java.io.*;
+import java.util.*;
+public class fixedXOR{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            long n =Long.parseLong(br.readLine());
+            ArrayList<Long> ans = new ArrayList<>();
+
+            ans.add(n);
+            for(long p=1;p<=n;p*=2){
+                if((n&p) ==p){
+                    long mask = n-p;
+                    if(mask>0) ans.add(mask);
+                    else break;
+                }
+            }
+            Collections.sort(ans);
+
+            result.append(ans.size()+"\n");
+            for(Long i:ans) result.append(i + " ");
+            result.append("\n");
+            
+        }
+ 
+        System.out.println(result);
+    }
+}
