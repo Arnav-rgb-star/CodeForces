@@ -1,0 +1,41 @@
+import java.io.*;
+import java.util.*;
+public class agaga{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            long a[] = new long[n];
+
+            long x=0;
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            for(int i=0;i<n;i++){
+                a[i] = Long.parseLong(st.nextToken());
+                if(i==0) x=a[0];
+                else x^=a[i];
+            }
+            if(x==0) result.append("YES\n");
+            else{
+                long count=0;
+                long xor =0;
+
+                for(int i=0;i<n;i++){
+                    xor^=a[i];
+                    
+                    if(xor==x){
+                        ++count;
+                        xor=0;
+                    }
+                }
+
+                if(count>=3) result.append("YES\n");
+                else result.append("NO\n");
+            }
+        }
+ 
+        System.out.println(result);
+    }
+}
