@@ -1,0 +1,67 @@
+import java.io.*;
+import java.util.*;
+public class alwaysChanging{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            String str = br.readLine();
+            
+            int x=0;
+            int y=0;
+
+            for(int i=0;i<n;i++){
+                if(str.charAt(i)=='0') ++x;
+                else ++y;
+            }
+            if(Math.abs(x-y) >2){
+                result.append("-1").append("\n");
+                continue;
+            }
+
+            int free1=0;
+            int free0=0;
+            int adj0=0;
+            int adj1=0;
+
+            int i=0;
+            while(i<n){
+                if(str.charAt(i)=='0'){
+                    ++free0;
+                    while(i<n-1 && str.charAt(i)==str.charAt(i+1)){
+                        ++adj0;
+                        ++i;
+                    }
+                }else{
+                    ++free1;
+                    while(i<n-1 && str.charAt(i)==str.charAt(i+1)){
+                        ++adj1;
+                        ++i;
+                    }
+                }
+                ++i;
+            }
+            if(adj1>adj0){
+                adj1 = adj1-adj0;
+                if(adj1>0){
+                    --adj1;
+                    free0-=adj1;
+                    adj1=0;
+                }adj0=0;
+            }else{
+                adj0 = adj0-adj1;
+                if(adj0>0){
+                    --adj0;
+                    free1-=adj0;
+                    adj0=0;
+                }adj1=0;
+            }
+            result.append(n - (adj1+adj0+free0+free1)).append("\n");
+        }
+ 
+        System.out.println(result);
+    }
+}
