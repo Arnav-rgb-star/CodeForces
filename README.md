@@ -161,3 +161,4 @@
 | 159 | [1988C - Increasing Sequence with Fixed OR](./Codeforces/basic/1988C%20-%20Increasing%20Sequence%20with%20Fixed%20OR) | [Codeforces](https://codeforces.com/problemset/problem/1988/C) | basic | 03 Sept 2026 | 03:53 pm |
 | 160 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 04:29 pm |
 | 161 | [B - AGAGA XOOORRR](./Codeforces/basic/B%20-%20AGAGA%20XOOORRR) | [Codeforces](https://codeforces.com/contest/1516/problem/B) | basic | 03 Sept 2026 | 07:23 pm |
+| 162 | [1363B - Subsequence Hate](./Codeforces/basic/1363B%20-%20Subsequence%20Hate) | [Codeforces](https://codeforces.com/problemset/problem/1363/B) | basic | 05 Sept 2026 | 12:49 pm |
