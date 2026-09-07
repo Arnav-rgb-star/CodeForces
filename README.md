@@ -165,3 +165,4 @@
 | 163 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 01:03 pm |
 | 164 | [B - Always Changing](./Codeforces/basic/B%20-%20Always%20Changing) | [Codeforces](https://codeforces.com/contest/2252/problem/B) | basic | 06 Sept 2026 | 01:53 am |
 | 165 | [B1 - Carrot Chopdown Easy Version](./Codeforces/basic/B1%20-%20Carrot%20Chopdown%20Easy%20Version) | [Codeforces](https://codeforces.com/contest/2258/problem/B1) | basic | 07 Sept 2026 | 04:43 pm |
+| 166 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 07 Sept 2026 | 08:27 pm |

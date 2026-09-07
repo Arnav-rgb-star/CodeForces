@@ -1,12 +1,12 @@
 {
-  "totalSolved": 127,
+  "totalSolved": 128,
   "currentStreak": 3,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 50,
+    "medium": 51,
     "hard": 9,
     "basic": 54
   },
@@ -137,7 +137,8 @@
     "Codeforces_1363B_-_Subsequence_Hate": true,
     "LeetCode_Smallest_Stable_Index_II": true,
     "Codeforces_B_-_Always_Changing": true,
-    "Codeforces_B1_-_Carrot_Chopdown_Easy_Version": true
+    "Codeforces_B1_-_Carrot_Chopdown_Easy_Version": true,
+    "LeetCode_Longest_Increasing_Subsequence": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -182,9 +183,10 @@
     "2026-09-03": 3,
     "2026-09-05": 2,
     "2026-09-06": 1,
-    "2026-09-07": 1
+    "2026-09-07": 2
   },
   "todayProblems": [
-    "B1 - Carrot Chopdown Easy Version"
+    "B1 - Carrot Chopdown Easy Version",
+    "Longest Increasing Subsequence"
   ]
 }
