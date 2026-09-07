@@ -1,0 +1,40 @@
+import java.io.*;
+import java.util.*;
+public class carrotChopdown{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int m = Integer.parseInt(st.nextToken());
+
+            int freq[] = new int[m+1];
+            st = new StringTokenizer(br.readLine());
+
+            for(int i=0;i<n;i++){
+                int ngga = Integer.parseInt(st.nextToken());
+                freq[ngga]++;
+            }
+            long suffix[] = new long[m+1];
+
+            suffix[m] = freq[m];
+
+            for(int i=m-1;i>=1;i--) suffix[i] = suffix[i+1] + freq[i];
+
+            long ans = 0;
+
+            for(int i=1;i<=m;i++){
+                long v = suffix[i];
+
+                if(2*i <= m) v+=freq[2*i];
+                ans = Math.max(ans,v);
+            }
+            result.append(ans).append("\n");
+        }
+
+        System.out.println(result);
+    }
+}
