@@ -1,0 +1,37 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    int l;
+    cin>>l;
+
+    while(l--){
+        int n,t;
+        cin>>n>>t;
+        int x=n^t;
+
+        if(x<n){
+            cout<<"YES"<<"\n";
+            for(int i=n-1;i>=0;i--){
+                if(i!=x)cout<<i<<" ";
+            }
+            cout<<x<<"\n";
+            // else cout<<"\n";
+        }
+
+        else if((x^(n-1))<(n-1)){
+            cout<<"YES"<<"\n";
+            int y=x^(n-1);
+            for(int i=n-2;i>=0;i--){
+                if(i!=y)cout<<i<<" ";
+            }
+            cout<<y<<" "<<n-1<<"\n";
+        }
+
+        else{
+            cout<<"NO"<<endl;
+        }
+
+
+    }
+}

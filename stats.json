@@ -1,14 +1,14 @@
 {
-  "totalSolved": 132,
+  "totalSolved": 133,
   "currentStreak": 2,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 16,
     "medium": 53,
     "hard": 9,
-    "basic": 54
+    "basic": 55
   },
   "syncedProblems": {
     "LeetCode_Edit_Distance": true,
@@ -142,7 +142,8 @@
     "LeetCode_Count_Commas_in_Range": true,
     "LeetCode_Remove_K_Digits": true,
     "LeetCode_Count_Commas_in_Range_II": true,
-    "LeetCode_Unique_3-Digit_Even_Numbers": true
+    "LeetCode_Unique_3-Digit_Even_Numbers": true,
+    "Codeforces_C_-_MEXOR": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -190,9 +191,10 @@
     "2026-09-07": 2,
     "2026-09-08": 2,
     "2026-09-10": 1,
-    "2026-09-11": 1
+    "2026-09-11": 2
   },
   "todayProblems": [
-    "Unique 3-Digit Even Numbers"
+    "Unique 3-Digit Even Numbers",
+    "C - MEXOR"
   ]
 }
