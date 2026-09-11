@@ -1,0 +1,56 @@
+import java.io.*;
+import java.util.*;
+public class multiSet{
+    public static void main(String[] args)throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder result = new StringBuilder();
+        int t = Integer.parseInt(br.readLine());
+
+        while(t-->0){
+            int n = Integer.parseInt(br.readLine());
+            int a[] = new int[n];
+            int z=0;
+
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            for(int i=0;i<n;i++){
+                a[i] = Integer.parseInt(st.nextToken());
+                if(a[i]==0) ++z;
+            }
+
+            if(z==1){
+                result.append("NO\n");
+                continue;
+            }else{
+                StringBuilder sb = new StringBuilder();
+                result.append("YES\n");
+                if(z==0){
+                    int x=0;
+                    for(int i=0;i<n-1;i++){
+                        if(x==0) sb.append("A");
+                        else sb.append("B");
+
+                        x=1-x;
+                    }
+                    sb.append("C");
+                }
+
+                if(z>=2){
+                    int x = 0;
+                    for(int i=0;i<n;i++){
+                        if(x==0 && a[i]==0){
+                            sb.append("B");
+                            x=1-x;
+                        }
+                        else if(x==1  && a[i]==0){
+                            sb.append("C");
+                            x=1-x;
+                        }else sb.append("A");
+                    }
+                }
+                result.append(sb+"\n");
+            }
+        }
+ 
+        System.out.println(result);
+    }
+}
