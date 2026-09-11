@@ -169,3 +169,4 @@
 | 167 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 06:16 pm |
 | 168 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 08 Sept 2026 | 07:41 pm |
 | 169 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 10 Sept 2026 | 02:23 am |
+| 170 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 01:03 pm |
