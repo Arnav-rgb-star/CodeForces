@@ -172,3 +172,4 @@
 | 170 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 01:03 pm |
 | 171 | [C - MEXOR](./Codeforces/basic/C%20-%20MEXOR) | [Codeforces](https://codeforces.com/contest/2245/problem/C) | basic | 11 Sept 2026 | 03:55 pm |
 | 172 | [2259D - MEX Multiset](./Codeforces/basic/2259D%20-%20MEX%20Multiset) | [Codeforces](https://codeforces.com/problemset/problem/2259/D) | basic | 11 Sept 2026 | 04:04 pm |
+| 173 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 16 Sept 2026 | 01:58 am |
