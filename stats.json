@@ -1,13 +1,13 @@
 {
-  "totalSolved": 135,
+  "totalSolved": 136,
   "currentStreak": 1,
   "maxStreak": 19,
-  "lastSyncDate": "2026-09-16",
+  "lastSyncDate": "2026-09-20",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
     "medium": 53,
-    "hard": 10,
+    "hard": 11,
     "basic": 56
   },
   "syncedProblems": {
@@ -145,7 +145,8 @@
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
     "Codeforces_C_-_MEXOR": true,
     "Codeforces_2259D_-_MEX_Multiset": true,
-    "LeetCode_Stone_Game_V": true
+    "LeetCode_Stone_Game_V": true,
+    "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -194,9 +195,10 @@
     "2026-09-08": 2,
     "2026-09-10": 1,
     "2026-09-11": 3,
-    "2026-09-16": 1
+    "2026-09-16": 1,
+    "2026-09-20": 1
   },
   "todayProblems": [
-    "Stone Game V"
+    "Maximum Number of Non-Overlapping Substrings"
   ]
 }
