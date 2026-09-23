@@ -175,3 +175,4 @@
 | 173 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 16 Sept 2026 | 01:58 am |
 | 174 | [Maximum Number of Non-Overlapping Substrings](./LeetCode/Hard/Maximum%20Number%20of%20Non-Overlapping%20Substrings) | [LeetCode](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | 20 Sept 2026 | 11:36 am |
 | 175 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 23 Sept 2026 | 08:48 pm |
+| 176 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 23 Sept 2026 | 11:36 pm |
