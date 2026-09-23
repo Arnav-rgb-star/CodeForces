@@ -174,3 +174,4 @@
 | 172 | [2259D - MEX Multiset](./Codeforces/basic/2259D%20-%20MEX%20Multiset) | [Codeforces](https://codeforces.com/problemset/problem/2259/D) | basic | 11 Sept 2026 | 04:04 pm |
 | 173 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 16 Sept 2026 | 01:58 am |
 | 174 | [Maximum Number of Non-Overlapping Substrings](./LeetCode/Hard/Maximum%20Number%20of%20Non-Overlapping%20Substrings) | [LeetCode](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | 20 Sept 2026 | 11:36 am |
+| 175 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 23 Sept 2026 | 08:48 pm |

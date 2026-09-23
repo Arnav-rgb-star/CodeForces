@@ -1,12 +1,12 @@
 {
-  "totalSolved": 136,
+  "totalSolved": 137,
   "currentStreak": 1,
   "maxStreak": 19,
-  "lastSyncDate": "2026-09-20",
+  "lastSyncDate": "2026-09-23",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 53,
+    "medium": 54,
     "hard": 11,
     "basic": 56
   },
@@ -146,7 +146,8 @@
     "Codeforces_C_-_MEXOR": true,
     "Codeforces_2259D_-_MEX_Multiset": true,
     "LeetCode_Stone_Game_V": true,
-    "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true
+    "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true,
+    "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -196,9 +197,10 @@
     "2026-09-10": 1,
     "2026-09-11": 3,
     "2026-09-16": 1,
-    "2026-09-20": 1
+    "2026-09-20": 1,
+    "2026-09-23": 1
   },
   "todayProblems": [
-    "Maximum Number of Non-Overlapping Substrings"
+    "Minimum Operations to Reduce X to Zero"
   ]
 }
