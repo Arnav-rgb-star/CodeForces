@@ -178,3 +178,4 @@
 | 176 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 23 Sept 2026 | 11:36 pm |
 | 177 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 27 Sept 2026 | 12:30 am |
 | 178 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 03:08 pm |
+| 179 | [2267C - GCD Treasury](./Codeforces/basic/2267C%20-%20GCD%20Treasury) | [Codeforces](https://codeforces.com/problemset/problem/2267/C) | basic | 16 Oct 2026 | 08:40 pm |
