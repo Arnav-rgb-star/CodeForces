@@ -1,12 +1,12 @@
 {
-  "totalSolved": 143,
+  "totalSolved": 144,
   "currentStreak": 1,
   "maxStreak": 19,
   "lastSyncDate": "2026-10-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 58,
+    "medium": 59,
     "hard": 11,
     "basic": 57
   },
@@ -153,7 +153,8 @@
     "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
     "Codeforces_2267C_-_GCD_Treasury": true,
     "LeetCode_Maximum_Multiplication_Score": true,
-    "LeetCode_Maximum_Amount_of_Money_Robot_Can_Earn": true
+    "LeetCode_Maximum_Amount_of_Money_Robot_Can_Earn": true,
+    "LeetCode_Inverse_Coin_Change": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -208,10 +209,11 @@
     "2026-09-27": 1,
     "2026-09-28": 1,
     "2026-10-16": 1,
-    "2026-10-28": 2
+    "2026-10-28": 3
   },
   "todayProblems": [
     "Maximum Multiplication Score",
-    "Maximum Amount of Money Robot Can Earn"
+    "Maximum Amount of Money Robot Can Earn",
+    "Inverse Coin Change"
   ]
 }
