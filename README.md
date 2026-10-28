@@ -180,3 +180,4 @@
 | 178 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 03:08 pm |
 | 179 | [2267C - GCD Treasury](./Codeforces/basic/2267C%20-%20GCD%20Treasury) | [Codeforces](https://codeforces.com/problemset/problem/2267/C) | basic | 16 Oct 2026 | 08:40 pm |
 | 180 | [Maximum Multiplication Score](./LeetCode/Medium/Maximum%20Multiplication%20Score) | [LeetCode](https://leetcode.com/problems/maximum-multiplication-score/) | Medium | 28 Oct 2026 | 01:38 am |
+| 181 | [Maximum Amount of Money Robot Can Earn](./LeetCode/Medium/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn) | [LeetCode](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Medium | 28 Oct 2026 | 02:30 pm |
