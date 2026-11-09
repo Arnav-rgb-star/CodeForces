@@ -184,3 +184,4 @@
 | 182 | [Inverse Coin Change](./LeetCode/Medium/Inverse%20Coin%20Change) | [LeetCode](https://leetcode.com/problems/inverse-coin-change/) | Medium | 28 Oct 2026 | 05:18 pm |
 | 183 | [2032C - Trinity](./Codeforces/basic/2032C%20-%20Trinity) | [Codeforces](https://codeforces.com/problemset/problem/2032/C) | basic | 29 Oct 2026 | 01:03 pm |
 | 184 | [1676E - Eating Queries](./Codeforces/basic/1676E%20-%20Eating%20Queries) | [Codeforces](https://codeforces.com/problemset/problem/1676/E) | basic | 07 Nov 2026 | 09:56 pm |
+| 185 | [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | 10 Nov 2026 | 01:19 am |
