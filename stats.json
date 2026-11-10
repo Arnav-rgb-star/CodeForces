@@ -1,11 +1,11 @@
 {
-  "totalSolved": 149,
+  "totalSolved": 150,
   "currentStreak": 1,
   "maxStreak": 19,
   "lastSyncDate": "2026-11-10",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 61,
     "hard": 12,
     "basic": 59
@@ -159,7 +159,8 @@
     "Codeforces_1676E_-_Eating_Queries": true,
     "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true,
     "LeetCode_Climbing_Stairs_II": true,
-    "LeetCode_Minimum_Number_of_Operations_to_Have_Distinct_Elements": true
+    "LeetCode_Minimum_Number_of_Operations_to_Have_Distinct_Elements": true,
+    "LeetCode_Minimum_Number_of_Operations_to_Make_Elements_in_Array_Distinct": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -217,11 +218,12 @@
     "2026-10-28": 3,
     "2026-10-29": 1,
     "2026-11-07": 1,
-    "2026-11-10": 3
+    "2026-11-10": 4
   },
   "todayProblems": [
     "Find Servers That Handled Most Number of Requests",
     "Climbing Stairs II",
-    "Minimum Number of Operations to Have Distinct Elements"
+    "Minimum Number of Operations to Have Distinct Elements",
+    "Minimum Number of Operations to Make Elements in Array Distinct"
   ]
 }
