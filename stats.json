@@ -1,12 +1,12 @@
 {
-  "totalSolved": 147,
+  "totalSolved": 148,
   "currentStreak": 1,
   "maxStreak": 19,
   "lastSyncDate": "2026-11-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 59,
+    "medium": 60,
     "hard": 12,
     "basic": 59
   },
@@ -157,7 +157,8 @@
     "LeetCode_Inverse_Coin_Change": true,
     "Codeforces_2032C_-_Trinity": true,
     "Codeforces_1676E_-_Eating_Queries": true,
-    "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true
+    "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true,
+    "LeetCode_Climbing_Stairs_II": true
   },
   "activityHistory": {
     "2026-07-13": 9,
@@ -215,9 +216,10 @@
     "2026-10-28": 3,
     "2026-10-29": 1,
     "2026-11-07": 1,
-    "2026-11-10": 1
+    "2026-11-10": 2
   },
   "todayProblems": [
-    "Find Servers That Handled Most Number of Requests"
+    "Find Servers That Handled Most Number of Requests",
+    "Climbing Stairs II"
   ]
 }
